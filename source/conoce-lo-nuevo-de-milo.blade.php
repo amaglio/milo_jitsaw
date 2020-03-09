@@ -1,5 +1,9 @@
-@extends('_layouts.master')
+@extends('_layouts.master',
+        [   'video' => false,  
+            'titulo' => 'Conoce lo nuevo de Milo® '  
+        ])
 
+@section('body')
 <div class="clear"></div>
 
 <div id="main" class="main" style="padding: 0px; margin: 0px;">

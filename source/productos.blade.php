@@ -1,4 +1,7 @@
-@extends('_layouts.master')
+@extends('_layouts.master',
+        [   'video' => false,  
+            'titulo' => 'Productos'  
+        ])
 
 @section('body')
 

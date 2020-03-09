@@ -1,4 +1,7 @@
-@extends('_layouts.master')
+@extends('_layouts.master',
+        [   'video' => true,  
+            'titulo' => false  
+        ])
 
 @section('body')
 <style>

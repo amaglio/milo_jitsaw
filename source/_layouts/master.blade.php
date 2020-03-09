@@ -122,26 +122,15 @@
             display: none;
         }
     </style>
-    <style type="text/css" media="screen">
-        html {
-            margin-top: 32px !important;
-        }
-
-        * html body {
-            margin-top: 32px !important;
-        }
-
-        @media screen and (max-width: 782px) {
-            html {
-                margin-top: 46px !important;
+  
+    @if( $titulo )
+        <style>
+            .site-logo img{
+                width: 160px;
             }
-
-            * html body {
-                margin-top: 46px !important;
-            }
-        }
-        
-    </style>
+        </style>
+    @endif
+    
     <link rel="icon" href="https://www.milo.cl/wp-content/uploads/2019/02/cropped-logo-pagina-milo-32x32.jpg"
         sizes="32x32" />
     <link rel="icon" href="https://www.milo.cl/wp-content/uploads/2019/02/cropped-logo-pagina-milo-192x192.jpg"
@@ -187,11 +176,16 @@
             </div>
             <header id="header" class="header">
                 <div class="container">
-                    <div id="logo" class="logo"><a class="site-logo" href="https://www.milo.cl"><img
+                    <div id="logo" class="logo"><a class="site-logo" href="/"><img
                                 src="https://www.milo.cl/wp-content/themes/allegiant/images/logo.png" alt="" width="215"
                                 height="0" /></a>
-                        <h1 class="title site-title  hidden"><a href="https://www.milo.cl"></a></h1>
+                        <h1 class="title site-title  hidden"><a href="/"></a></h1>
                     </div>
+                    @if( $titulo )
+                    <div id="titlePage" style="width: 40%;">
+                        <h1> {{ $titulo }} </h1>
+                    </div>
+                    @endif
                     <div id="menu-mobile-open" class=" menu-mobile-open menu-mobile-toggle"></div>
                     <div id="mega-menu-wrap-main_menu" class="mega-menu-wrap">
                         <div class="mega-menu-toggle" tabindex="0">
@@ -222,8 +216,14 @@
                                 id='mega-menu-item-3547'><a class="mega-menu-link" href="/comunidad"
                                     tabindex="0">Comunidad</a></li>
                         </ul>
-                    </div> <a href="https://www.milo.cl/conoce-lo-nuevo-de-milo;"><img class="banner"
-                            src="https://www.milo.cl/wp-content/uploads/2019/05/INSTITUCIONAL_banner_MILO.png"></a>
+                    </div> 
+                        
+                        @if( $video )
+                            <a href="/conoce-lo-nuevo-de-milo"><img class="banner"
+                                src="https://www.milo.cl/wp-content/uploads/2019/05/INSTITUCIONAL_banner_MILO.png">
+                            </a>
+                        @endif
+                        
                     <div class='clear'></div>
                 </div>
             </header>
@@ -341,6 +341,23 @@
             <div></div>
         </div>
     </div>
+
+
+<div id="menu-mobile-close" class="menu-mobile-close menu-mobile-toggle"></div><div id="mega-menu-wrap-main_menu" class="mega-menu-wrap"><div class="mega-menu-toggle" tabindex="0"><div class="mega-toggle-blocks-left"></div><div class="mega-toggle-blocks-center"></div><div class="mega-toggle-blocks-right"><div class='mega-toggle-block mega-menu-toggle-block mega-toggle-block-1' id='mega-toggle-block-1'><span class='mega-toggle-label'><span class='mega-toggle-label-closed'>MENÚ</span><span class='mega-toggle-label-open'>MENÚ</span></span></div></div></div><ul id="mega-menu-main_menu" class="mega-menu max-mega-menu mega-menu-horizontal mega-no-js" data-event="hover_intent" data-effect="fade_up" data-effect-speed="200" data-effect-mobile="disabled" data-effect-speed-mobile="200" data-mobile-force-width="false" data-second-click="close" data-document-click="collapse" data-vertical-behaviour="standard" data-breakpoint="3000" data-unbind="true"><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-menu-item-home mega-align-bottom-left mega-menu-flyout mega-menu-item-3725' id='mega-menu-item-3725'><a class="mega-menu-link" href="https://www.milo.cl/" tabindex="0">Inicio</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-align-bottom-left mega-menu-flyout mega-menu-item-3545' id='mega-menu-item-3545'><a class="mega-menu-link" href="https://www.milo.cl/productos" tabindex="0">Productos</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-align-bottom-left mega-menu-flyout mega-menu-item-3546' id='mega-menu-item-3546'><a class="mega-menu-link" href="https://www.milo.cl/nutricion" tabindex="0">Nutrición</a></li><li class='mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-current-menu-item mega-align-bottom-left mega-menu-flyout mega-menu-item-3547' id='mega-menu-item-3547'><a class="mega-menu-link" href="https://www.milo.cl/comunidad" tabindex="0">Comunidad</a></li></ul></div><link rel='stylesheet' id='cpotheme-font-source-sans-pro-css'  href='//fonts.googleapis.com/css?family=Source+Sans+Pro&#038;ver=5.0.4' type='text/css' media='all' />
+<link rel='stylesheet' id='owl_carousel_css-css'  href='https://www.milo.cl/wp-content/plugins/slide-anything/owl-carousel/owl.carousel.css?ver=2.2.1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='owl_theme_css-css'  href='https://www.milo.cl/wp-content/plugins/slide-anything/owl-carousel/sa-owl-theme.css?ver=2.0' type='text/css' media='all' />
+<link rel='stylesheet' id='owl_animate_css-css'  href='https://www.milo.cl/wp-content/plugins/slide-anything/owl-carousel/animate.min.css?ver=2.0' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.milo.cl/wp-includes/js/comment-reply.min.js?ver=5.0.4'></script>
+<script type='text/javascript' src='https://www.milo.cl/wp-content/themes/allegiant/core/scripts/core.js?ver=5.0.4'></script>
+<script type='text/javascript' src='https://www.milo.cl/wp-includes/js/hoverIntent.min.js?ver=1.8.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var megamenu = {"timeout":"300","interval":"100"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.milo.cl/wp-content/plugins/megamenu/js/maxmegamenu.js?ver=2.5.3.2'></script>
+<script type='text/javascript' src='https://www.milo.cl/wp-includes/js/wp-embed.min.js?ver=5.0.4'></script>
+<script type='text/javascript' src='https://www.milo.cl/wp-content/plugins/slide-anything/owl-carousel/owl.carousel.min.js?ver=2.2.1'></script>
 </body>
 
 </html>
