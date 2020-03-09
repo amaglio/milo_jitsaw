@@ -28,7 +28,7 @@
                                 <tbody>
                                     <tr>
                                         <td class="tdImage"><img class="card-img-top"
-                                                src="https://www.milo.cl/wp-content/uploads/2019/02/NUTRICION_foto1_MILO.png">
+                                                src="/assets/images/nutricion/NUTRICION_foto1_MILO.png">
                                         </td>
                                         <td class="tdText">
                                             <div class="divCardTitle">
@@ -62,7 +62,7 @@
                                             </ul>
                                         </td>
                                         <td class="tdImage"><img class="card-img-top"
-                                                src="https://www.milo.cl/wp-content/uploads/2019/02/NUTRICION_foto3_MILO.png">
+                                                src="/assets/images/nutricion/NUTRICION_foto3_MILO.png">
                                         </td>
                                     </tr>
                                 </tbody>
@@ -74,7 +74,7 @@
                                 <tbody>
                                     <tr>
                                         <td class="tdImage"><img class="card-img-top"
-                                                src="https://www.milo.cl/wp-content/uploads/2019/02/NUTRICION_foto2_MILO.png">
+                                                src="/assets/images/nutricion/NUTRICION_foto2_MILO.png">
                                         </td>
                                         <td class="tdText">
                                             <div class="divCardTitle">
@@ -109,7 +109,7 @@
                                                 con agua y una porción de MILO​®​ LISTO.</p>
                                         </td>
                                         <td class="tdImage"><img class="card-img-top"
-                                                src="https://www.milo.cl/wp-content/uploads/2019/02/NUTRICION_foto4_MILO.png">
+                                                src="/assets/images/nutricion/NUTRICION_foto4_MILO.png">
                                         </td>
                                     </tr>
                                 </tbody>
@@ -121,7 +121,7 @@
                                 <tbody>
                                     <tr>
                                         <td class="tdImage"><img class="card-img-top"
-                                                src="https://www.milo.cl/wp-content/uploads/2019/02/NUTRICION_foto5_MILO.png">
+                                                src="/assets/images/nutricion/NUTRICION_foto5_MILO.png">
                                         </td>
                                         <td class="tdText">
                                             <div class="divCardTitle">
@@ -158,7 +158,7 @@
                                             </p>
                                         </td>
                                         <td class="tdImage"><img class="card-img-top"
-                                                src="https://www.milo.cl/wp-content/uploads/2019/02/NUTRICION_foto6_MILO.png">
+                                                src="/assets/images/nutricion/NUTRICION_foto6_MILO.png">
                                         </td>
                                     </tr>
                                 </tbody>
@@ -170,7 +170,7 @@
                                 <tbody>
                                     <tr>
                                         <td class="tdImage"><img class="card-img-top"
-                                                src="https://www.milo.cl/wp-content/uploads/2019/02/NUTRICION_foto7_MILO.png">
+                                                src="/assets/images/nutricion/NUTRICION_foto7_MILO.png">
                                         </td>
                                         <td class="tdText">
                                             <div class="divCardTitle">
@@ -208,7 +208,7 @@
                                 </div>
                                 <div class="imgNutrition">
                                     <img class="card-img-top"
-                                        src="https://www.milo.cl/wp-content/uploads/2019/02/NUTRICION_foto1_MILO.png">
+                                        src="/assets/images/nutricion/NUTRICION_foto1_MILO.png">
                                 </div>
                                 <div class="detailNutrition">
                                     <p class="card-text">Comenzar el día con un desayuno balanceado mejora el
@@ -229,7 +229,7 @@
                                 </div>
                                 <div class="imgNutrition">
                                     <img class="card-img-top"
-                                        src="https://www.milo.cl/wp-content/uploads/2019/02/NUTRICION_foto3_MILO.png">
+                                        src="/assets/images/nutricion/NUTRICION_foto3_MILO.png">
                                 </div>
                                 <div class="detailNutrition">
                                     <p class="card-text">Un vaso de leche con MILO® al desayuno proporciona:</p>
@@ -253,7 +253,7 @@
                                 </div>
                                 <div class="imgNutrition">
                                     <img class="card-img-top"
-                                        src="https://www.milo.cl/wp-content/uploads/2019/02/NUTRICION_foto2_MILO.png">
+                                        src="/assets/images/nutricion/NUTRICION_foto2_MILO.png">
                                 </div>
                                 <div class="detailNutrition">
                                     <p class="card-text">Es una combinación exclusiva de extracto de malta
@@ -278,7 +278,7 @@
                                 </div>
                                 <div class="imgNutrition">
                                     <img class="card-img-top"
-                                        src="https://www.milo.cl/wp-content/uploads/2019/02/NUTRICION_foto4_MILO.png">
+                                        src="/assets/images/nutricion/NUTRICION_foto4_MILO.png">
                                 </div>
                                 <div class="detailNutrition">
                                     <p class="card-text">Sólo necesitas 200 ml. de agua para que tus hijos
@@ -301,7 +301,7 @@
                                 </div>
                                 <div class="imgNutrition">
                                     <img class="card-img-top"
-                                        src="https://www.milo.cl/wp-content/uploads/2019/02/NUTRICION_foto5_MILO.png">
+                                        src="/assets/images/nutricion/NUTRICION_foto5_MILO.png">
                                 </div>
                                 <div class="detailNutrition">
                                     <p class="card-text">Con MILO® RTD, tus hijos pueden nutrir sus días en
@@ -326,7 +326,7 @@
                                 </div>
                                 <div class="imgNutrition">
                                     <img class="card-img-top"
-                                        src="https://www.milo.cl/wp-content/uploads/2019/02/NUTRICION_foto6_MILO.png">
+                                        src="/assets/images/nutricion/NUTRICION_foto6_MILO.png">
                                 </div>
                                 <div class="detailNutrition">
                                     <p class="card-text">El consumo de lácteos se traduce en aminoácidos
@@ -349,7 +349,7 @@
                                 </div>
                                 <div class="imgNutrition">
                                     <img class="card-img-top"
-                                        src="https://www.milo.cl/wp-content/uploads/2019/02/NUTRICION_foto7_MILO.png">
+                                        src="/assets/images/nutricion/NUTRICION_foto7_MILO.png">
                                 </div>
                                 <div class="detailNutrition">
                                     <p class="card-text">En relación a las recomendaciones entregadas por la
@@ -368,8 +368,8 @@
                         </p>
                         <div class="finalProduct" style="padding-bottom: 30px;">
                             <div class="divReturn">
-                                <a href="https://www.milo.cl"><img
-                                        src="https://www.milo.cl/wp-content/uploads/2019/02/volver_productos_MILO.png"></a>
+                                <a href="/"><img
+                                        src="/assets/images/volver_productos_MILO.png"></a>
                             </div>
                         </div>
                     </div>

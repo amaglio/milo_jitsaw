@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title></title>
+	<atom:link href="https://www.milo.cl/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.milo.cl</link>
+	<description></description>
+	<lastBuildDate>Fri, 07 Feb 2020 15:08:22 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.4</generator>
+
+<image>
+	<url>https://www.milo.cl/wp-content/uploads/2019/02/cropped-logo-pagina-milo-32x32.jpg</url>
+	<title></title>
+	<link>https://www.milo.cl</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Privado: Test post quiz</title>
+		<link>https://www.milo.cl/test-post-quiz/</link>
+		<comments>https://www.milo.cl/test-post-quiz/#respond</comments>
+		<pubDate>Fri, 08 Mar 2019 13:37:21 +0000</pubDate>
+		<dc:creator><![CDATA[upsocldesarrollo]]></dc:creator>
+				<category><![CDATA[Sin categoría]]></category>
+
+		<guid isPermaLink="false">https://www.milo.cl/?p=3918</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[<!-- wp quiz -->
+<div class="wq_quizCtr single trivia_quiz" data-current-question="0" data-questions-answered="0" data-questions="1" data-transition_in="fade" data-transition_out="fade" data-correct-answered="0" data-force-action="0" data-quiz-pid="3915" data-share-url="https://www.milo.cl/test-post-quiz/" data-post-title="Test" data-retake-quiz="0" data-question-layout="single" data-featured-image="" data-excerpt=""data-ajax-url="https://www.milo.cl/wp-admin/admin-ajax.php"data-auto-scroll="1" data-end-answers="false" data-quiz-timer="0" >
+   	<div class="wq_quizProgressBarCtr">
+        <!-- progress bar -->
+<div class="wq_quizProgressBarCtr" style="display:none">
+<div class="wq_quizProgressBar">
+<span style="background-color:#00c479" class="wq_quizProgressValue"></span>
+</div>
+</div>
+<!--// progress bar-->
+   	</div>
+   	<div class="wq_questionsCtr" >
+        
+					<div class="wq_singleQuestionWrapper wq_IsTrivia" style="display:block;">
+						<div class="wq_singleQuestionCtr">
+							<div class="wq_questionTextWrapper quiz-pro-clearfix">	
+								<div class="wq_questionTextCtr" style="background-color:#ecf0f1; color:#444;"> 
+									<h4>¿Prueba realizada con éxito?</h4>
+								</div>
+							</div>
+							<div class="wq_questionMediaCtr" >	
+								<div class="wq_questionImage"><img src="https://www.milo.cl/wp-content/uploads/2016/01/foto-nota-1.jpg" /><span></span></div>
+							</div>
+							<div class="wq_questionAnswersCtr">
+								<div class="wq_answersWrapper"><div class="row">
+								<div class="col-md-wq-4">	
+									<div class="wq_singleAnswerCtr wq_IsTrivia wq_hasImage" data-isCorrect="1" style="background-color:#ecf0f1; color:#444;">
+										<div class="wq_answerImgCtr"><img src="https://www.milo.cl/wp-content/uploads/2019/03/01.png"></div>
+										<label class="wq_answerTxtCtr">Si</label>
+									</div>
+								</div>
+							
+								<div class="col-md-wq-4">	
+									<div class="wq_singleAnswerCtr wq_IsTrivia wq_hasImage" data-isCorrect="0" style="background-color:#ecf0f1; color:#444;">
+										<div class="wq_answerImgCtr"><img src="https://www.milo.cl/wp-content/uploads/2019/03/portada.jpg"></div>
+										<label class="wq_answerTxtCtr">No</label>
+									</div>
+								</div>
+							</div></div>
+							</div>
+							<span class="wq_retakeQuestionPlaceholder" data-bg-color="" data-font-color=""></span>
+							<div class="wq_triviaQuestionExplanation">
+								<div class="wq_ExplanationHead"></div>
+								<p class="wq_QuestionExplanationText"></p>
+							</div>
+						</div>
+						<div class="wq_continue" style="display:none;">
+							<button class="wq_btn-continue" style="background-color:#00c479">Continue &gt;&gt;</button>
+						</div>
+					</div>
+				
+   	</div>
+   	<div class="wq_resultsCtr">
+        
+   	</div>
+   	<!-- force action -->
+        <div class="wq_quizForceActionCtr" style="display:none;">
+<div class="wq_quizEmailCtr" style="display:none;">
+<form id="wq_infoForm" action="" method="post">
+<p>Just tell us who you are to view your results !</p>
+<div><label>Your first name :</label><input type="text" id="wq_inputName"/></div>
+<div><label>Your email address :</label><input type="email" id="wq_inputEmail"/></div>
+<p><button type="submit" id="" style="background:#00c479">Show my results &gt;&gt;</button></p>
+</form>
+</div>
+<div class="wq_quizForceShareCtr" style="display:none;">
+<p>Please share this quiz to view your results.</p>
+<button class="wq_forceShareFB"><i class="fa fa-facebook icon"></i><span>Facebook</span></button>
+</div>
+</div>
+   	<!--// force action-->
+   	<!-- quiz timer -->
+        <div class="timerPlaceholder"></div>
+   	<!--// quiz timer-->
+   	<!-- embed code -->
+        
+   	<!--// embed code -->
+   	<!-- promote link -->
+        
+   	<!--// promote link-->
+   	<!-- retake button -->
+        <div class="wq_retakeQuizCtr" >
+<button style="display:none;" class="wq_retakeQuizBtn"><i class="fa fa-undo"></i>&nbsp;PLAY AGAIN !</button>
+</div>
+   	<!--// retake button-->
+</div>
+<!--// wp quiz-->
+]]></content:encoded>
+			<wfw:commentRss>https://www.milo.cl/test-post-quiz/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>¡Hola mundo!</title>
+		<link>https://www.milo.cl/hola-mundo/</link>
+		<comments>https://www.milo.cl/hola-mundo/#comments</comments>
+		<pubDate>Fri, 01 Feb 2019 13:18:00 +0000</pubDate>
+		<dc:creator><![CDATA[upsocldesarrollo]]></dc:creator>
+				<category><![CDATA[Sin categoría]]></category>
+
+		<guid isPermaLink="false">https://www.milo.cl/?p=1</guid>
+		<description><![CDATA[Bienvenido a WordPress. Esta es tu primera entrada. Edítala o bórrala, ¡y comienza a escribir!]]></description>
+				<content:encoded><![CDATA[<p>Bienvenido a WordPress. Esta es tu primera entrada. Edítala o bórrala, ¡y comienza a escribir!</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.milo.cl/hola-mundo/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>Completa este quiz y descubre cuántos kms. aguantarías en una maratón</title>
+		<link>https://www.milo.cl/completa-este-quiz-y-descubre-cuantos-kms-aguantarias-en-una-maraton/</link>
+		<comments>https://www.milo.cl/completa-este-quiz-y-descubre-cuantos-kms-aguantarias-en-una-maraton/#respond</comments>
+		<pubDate>Mon, 06 Jun 2016 19:06:09 +0000</pubDate>
+		<dc:creator><![CDATA[David Díaz]]></dc:creator>
+				<category><![CDATA[Sin categoría]]></category>
+
+		<guid isPermaLink="false">https://www.milo.cl/?p=4152</guid>
+		<description><![CDATA[Si quieres demostrar realmente de qué estás hech@, no dejes la oportunidad para gritar #MELAPUEDO e inscríbete aquí para la próxima Corrida MILO del 26 de mayo en Concepción.]]></description>
+				<content:encoded><![CDATA[<!-- wp quiz -->
+<div class="wq_quizCtr single personality_quiz" data-current-question="0" data-questions-answered="0" data-questions="5" data-transition_in="fade" data-transition_out="fade" data-correct-answered="0" data-force-action="0" data-quiz-pid="4153" data-share-url="https://www.milo.cl/completa-este-quiz-y-descubre-cuantos-kms-aguantarias-en-una-maraton/" data-post-title="Completa este quiz y descubre cuántos kms. aguantarías en una maratón" data-retake-quiz="0" data-question-layout="single" data-featured-image="" data-excerpt=""data-ajax-url="https://www.milo.cl/wp-admin/admin-ajax.php"data-auto-scroll="1" data-end-answers="false" data-quiz-timer="0" >
+   	<div class="wq_quizProgressBarCtr">
+        <!-- progress bar -->
+<div class="wq_quizProgressBarCtr" style="display:none">
+<div class="wq_quizProgressBar">
+<span style="background-color:#00c479" class="wq_quizProgressValue"></span>
+</div>
+</div>
+<!--// progress bar-->
+   	</div>
+   	<div class="wq_questionsCtr" >
+        
+					<div class="wq_singleQuestionWrapper wq_IsPersonality" data-question-answered="1" style="display:block;">
+						<div class="wq_singleQuestionCtr">
+							<div class="wq_questionTextWrapper quiz-pro-clearfix">
+								<div class="wq_questionTextCtr" style="background-color:#ecf0f1; color:#444;"> 
+									<h4>1. El día de la maratón ha llegado. Tú junto a los demás competidores se preparan tras la línea de partida...</h4>
+								</div>
+							</div>
+							<div class="wq_questionMediaCtr">	
+								<div class="wq_questionImage"><img src="https://www.milo.cl/wp-content/uploads/2019/05/01.png" /><span></span></div>
+							</div>
+							<div class="wq_questionAnswersCtr">
+								<div class="wq_answersWrapper">
+							<div class="wq_singleAnswerCtr wq_IsPersonality" style="background-color:#ecf0f1; color:#444;">
+								<textarea style="display:none;" class="wq_singleAnswerResultCtr" >[{"title":"En una marat\u00f3n aguantar\u00edas: 50k","points":"2"},{"title":"En una marat\u00f3n aguantar\u00edas: 10k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 5k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 2k","points":"0"}]</textarea>
+								<label class="wq_answerTxtCtr">Nada, sigo mentalizado en la carrera.</label>
+							</div>
+						
+							<div class="wq_singleAnswerCtr wq_IsPersonality" style="background-color:#ecf0f1; color:#444;">
+								<textarea style="display:none;" class="wq_singleAnswerResultCtr" >[{"title":"En una marat\u00f3n aguantar\u00edas: 50k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 10k","points":"2"},{"title":"En una marat\u00f3n aguantar\u00edas: 5k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 2k","points":"0"}]</textarea>
+								<label class="wq_answerTxtCtr">Me preocupo un poco, esto no estaba dentro de mis planes.</label>
+							</div>
+						
+							<div class="wq_singleAnswerCtr wq_IsPersonality" style="background-color:#ecf0f1; color:#444;">
+								<textarea style="display:none;" class="wq_singleAnswerResultCtr" >[{"title":"En una marat\u00f3n aguantar\u00edas: 50k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 10k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 5k","points":"2"},{"title":"En una marat\u00f3n aguantar\u00edas: 2k","points":"0"}]</textarea>
+								<label class="wq_answerTxtCtr">Me asusto. Intentaré correr no tan fuerte para no caerme.</label>
+							</div>
+						
+							<div class="wq_singleAnswerCtr wq_IsPersonality" style="background-color:#ecf0f1; color:#444;">
+								<textarea style="display:none;" class="wq_singleAnswerResultCtr" >[{"title":"En una marat\u00f3n aguantar\u00edas: 50k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 10k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 5k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 2k","points":"2"}]</textarea>
+								<label class="wq_answerTxtCtr">¿Lluvia? Chao, me voy a mi casa. Tampoco me gusta correr tanto.</label>
+							</div>
+						</div>
+							</div>
+							<span class="wq_retakeQuestionPlaceholder" data-bg-color="" data-font-color=""></span>
+						</div>
+						<div class="wq_continue" style="display:none;">
+							<button class="wq_btn-continue">Continue &gt;&gt;</button>
+						</div>
+					</div>
+				
+					<div class="wq_singleQuestionWrapper wq_IsPersonality" data-question-answered="1" style="display:block;">
+						<div class="wq_singleQuestionCtr">
+							<div class="wq_questionTextWrapper quiz-pro-clearfix">
+								<div class="wq_questionTextCtr" style="background-color:#ecf0f1; color:#444;"> 
+									<h4>2.</h4>
+								</div>
+							</div>
+							<div class="wq_questionMediaCtr">	
+								<div class="wq_questionImage"><img src="https://www.milo.cl/wp-content/uploads/2019/05/02.png" /><span></span></div>
+							</div>
+							<div class="wq_questionAnswersCtr">
+								<div class="wq_answersWrapper">
+							<div class="wq_singleAnswerCtr wq_IsPersonality" style="background-color:#ecf0f1; color:#444;">
+								<textarea style="display:none;" class="wq_singleAnswerResultCtr" >[{"title":"En una marat\u00f3n aguantar\u00edas: 50k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 10k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 5k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 2k","points":"0"}]</textarea>
+								<label class="wq_answerTxtCtr">“Con Calma” - Daddy Yankee.</label>
+							</div>
+						
+							<div class="wq_singleAnswerCtr wq_IsPersonality" style="background-color:#ecf0f1; color:#444;">
+								<textarea style="display:none;" class="wq_singleAnswerResultCtr" >[{"title":"En una marat\u00f3n aguantar\u00edas: 50k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 10k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 5k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 2k","points":"0"}]</textarea>
+								<label class="wq_answerTxtCtr">“No Te Enamores” - Paloma Mami.</label>
+							</div>
+						
+							<div class="wq_singleAnswerCtr wq_IsPersonality" style="background-color:#ecf0f1; color:#444;">
+								<textarea style="display:none;" class="wq_singleAnswerResultCtr" >[{"title":"En una marat\u00f3n aguantar\u00edas: 50k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 10k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 5k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 2k","points":"0"}]</textarea>
+								<label class="wq_answerTxtCtr">Alguna de AC/DC.</label>
+							</div>
+						
+							<div class="wq_singleAnswerCtr wq_IsPersonality" style="background-color:#ecf0f1; color:#444;">
+								<textarea style="display:none;" class="wq_singleAnswerResultCtr" >[{"title":"En una marat\u00f3n aguantar\u00edas: 50k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 10k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 5k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 2k","points":"0"}]</textarea>
+								<label class="wq_answerTxtCtr">Esa de la película de Rocky.</label>
+							</div>
+						
+							<div class="wq_singleAnswerCtr wq_IsPersonality" style="background-color:#ecf0f1; color:#444;">
+								<textarea style="display:none;" class="wq_singleAnswerResultCtr" >[{"title":"En una marat\u00f3n aguantar\u00edas: 50k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 10k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 5k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 2k","points":"0"}]</textarea>
+								<label class="wq_answerTxtCtr">"Fuel" - Metallica.</label>
+							</div>
+						
+							<div class="wq_singleAnswerCtr wq_IsPersonality" style="background-color:#ecf0f1; color:#444;">
+								<textarea style="display:none;" class="wq_singleAnswerResultCtr" >[{"title":"En una marat\u00f3n aguantar\u00edas: 50k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 10k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 5k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 2k","points":"0"}]</textarea>
+								<label class="wq_answerTxtCtr">No me gusta correr con música, sorry.</label>
+							</div>
+						</div>
+							</div>
+							<span class="wq_retakeQuestionPlaceholder" data-bg-color="" data-font-color=""></span>
+						</div>
+						<div class="wq_continue" style="display:none;">
+							<button class="wq_btn-continue">Continue &gt;&gt;</button>
+						</div>
+					</div>
+				
+					<div class="wq_singleQuestionWrapper wq_IsPersonality" data-question-answered="1" style="display:block;">
+						<div class="wq_singleQuestionCtr">
+							<div class="wq_questionTextWrapper quiz-pro-clearfix">
+								<div class="wq_questionTextCtr" style="background-color:#ecf0f1; color:#444;"> 
+									<h4>3.</h4>
+								</div>
+							</div>
+							<div class="wq_questionMediaCtr">	
+								<div class="wq_questionImage"><img src="https://www.milo.cl/wp-content/uploads/2019/05/03.png" /><span></span></div>
+							</div>
+							<div class="wq_questionAnswersCtr">
+								<div class="wq_answersWrapper">
+							<div class="wq_singleAnswerCtr wq_IsPersonality" style="background-color:#ecf0f1; color:#444;">
+								<textarea style="display:none;" class="wq_singleAnswerResultCtr" >[{"title":"En una marat\u00f3n aguantar\u00edas: 50k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 10k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 5k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 2k","points":"0"}]</textarea>
+								<label class="wq_answerTxtCtr">Tranquil@, lo importante es mantener el ritmo.</label>
+							</div>
+						
+							<div class="wq_singleAnswerCtr wq_IsPersonality" style="background-color:#ecf0f1; color:#444;">
+								<textarea style="display:none;" class="wq_singleAnswerResultCtr" >[{"title":"En una marat\u00f3n aguantar\u00edas: 50k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 10k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 5k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 2k","points":"0"}]</textarea>
+								<label class="wq_answerTxtCtr">La técnica es partir lo más rápido posible.</label>
+							</div>
+						
+							<div class="wq_singleAnswerCtr wq_IsPersonality" style="background-color:#ecf0f1; color:#444;">
+								<textarea style="display:none;" class="wq_singleAnswerResultCtr" >[{"title":"En una marat\u00f3n aguantar\u00edas: 50k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 10k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 5k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 2k","points":"0"}]</textarea>
+								<label class="wq_answerTxtCtr">“Leyendo” a mi cuerpo, sin sobreexigencias.</label>
+							</div>
+						
+							<div class="wq_singleAnswerCtr wq_IsPersonality" style="background-color:#ecf0f1; color:#444;">
+								<textarea style="display:none;" class="wq_singleAnswerResultCtr" >[{"title":"En una marat\u00f3n aguantar\u00edas: 50k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 10k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 5k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 2k","points":"0"}]</textarea>
+								<label class="wq_answerTxtCtr">Lento pero seguro, más adelante acelero el paso.</label>
+							</div>
+						</div>
+							</div>
+							<span class="wq_retakeQuestionPlaceholder" data-bg-color="" data-font-color=""></span>
+						</div>
+						<div class="wq_continue" style="display:none;">
+							<button class="wq_btn-continue">Continue &gt;&gt;</button>
+						</div>
+					</div>
+				
+					<div class="wq_singleQuestionWrapper wq_IsPersonality" data-question-answered="1" style="display:block;">
+						<div class="wq_singleQuestionCtr">
+							<div class="wq_questionTextWrapper quiz-pro-clearfix">
+								<div class="wq_questionTextCtr" style="background-color:#ecf0f1; color:#444;"> 
+									<h4>4. </h4>
+								</div>
+							</div>
+							<div class="wq_questionMediaCtr">	
+								<div class="wq_questionImage"><img src="https://www.milo.cl/wp-content/uploads/2019/05/04.png" /><span></span></div>
+							</div>
+							<div class="wq_questionAnswersCtr">
+								<div class="wq_answersWrapper">
+							<div class="wq_singleAnswerCtr wq_IsPersonality" style="background-color:#ecf0f1; color:#444;">
+								<textarea style="display:none;" class="wq_singleAnswerResultCtr" >[{"title":"En una marat\u00f3n aguantar\u00edas: 50k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 10k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 5k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 2k","points":"0"}]</textarea>
+								<label class="wq_answerTxtCtr">Le “chifleo” desde antes para que se levante.</label>
+							</div>
+						
+							<div class="wq_singleAnswerCtr wq_IsPersonality" style="background-color:#ecf0f1; color:#444;">
+								<textarea style="display:none;" class="wq_singleAnswerResultCtr" >[{"title":"En una marat\u00f3n aguantar\u00edas: 50k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 10k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 5k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 2k","points":"0"}]</textarea>
+								<label class="wq_answerTxtCtr">Con tan solo verlo mi cerebro se cancela y solo atino a acariciarlo desesperadamente.</label>
+							</div>
+						
+							<div class="wq_singleAnswerCtr wq_IsPersonality" style="background-color:#ecf0f1; color:#444;">
+								<textarea style="display:none;" class="wq_singleAnswerResultCtr" >[{"title":"En una marat\u00f3n aguantar\u00edas: 50k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 10k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 5k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 2k","points":"0"}]</textarea>
+								<label class="wq_answerTxtCtr">Dejo la carrera y me lo llevo para la casa, aunque mi mamá me rete.</label>
+							</div>
+						
+							<div class="wq_singleAnswerCtr wq_IsPersonality" style="background-color:#ecf0f1; color:#444;">
+								<textarea style="display:none;" class="wq_singleAnswerResultCtr" >[{"title":"En una marat\u00f3n aguantar\u00edas: 50k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 10k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 5k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 2k","points":"0"}]</textarea>
+								<label class="wq_answerTxtCtr">Sigo corriendo pero en mi mente le pongo un nombre: MILO.</label>
+							</div>
+						</div>
+							</div>
+							<span class="wq_retakeQuestionPlaceholder" data-bg-color="" data-font-color=""></span>
+						</div>
+						<div class="wq_continue" style="display:none;">
+							<button class="wq_btn-continue">Continue &gt;&gt;</button>
+						</div>
+					</div>
+				
+					<div class="wq_singleQuestionWrapper wq_IsPersonality" data-question-answered="1" style="display:block;">
+						<div class="wq_singleQuestionCtr">
+							<div class="wq_questionTextWrapper quiz-pro-clearfix">
+								<div class="wq_questionTextCtr" style="background-color:#ecf0f1; color:#444;"> 
+									<h4>5.</h4>
+								</div>
+							</div>
+							<div class="wq_questionMediaCtr">	
+								<div class="wq_questionImage"><img src="https://www.milo.cl/wp-content/uploads/2019/05/05.png" /><span></span></div>
+							</div>
+							<div class="wq_questionAnswersCtr">
+								<div class="wq_answersWrapper">
+							<div class="wq_singleAnswerCtr wq_IsPersonality" style="background-color:#ecf0f1; color:#444;">
+								<textarea style="display:none;" class="wq_singleAnswerResultCtr" >[{"title":"En una marat\u00f3n aguantar\u00edas: 50k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 10k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 5k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 2k","points":"0"}]</textarea>
+								<label class="wq_answerTxtCtr">Bailando. </label>
+							</div>
+						
+							<div class="wq_singleAnswerCtr wq_IsPersonality" style="background-color:#ecf0f1; color:#444;">
+								<textarea style="display:none;" class="wq_singleAnswerResultCtr" >[{"title":"En una marat\u00f3n aguantar\u00edas: 50k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 10k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 5k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 2k","points":"0"}]</textarea>
+								<label class="wq_answerTxtCtr">Saltando.</label>
+							</div>
+						
+							<div class="wq_singleAnswerCtr wq_IsPersonality" style="background-color:#ecf0f1; color:#444;">
+								<textarea style="display:none;" class="wq_singleAnswerResultCtr" >[{"title":"En una marat\u00f3n aguantar\u00edas: 50k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 10k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 5k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 2k","points":"0"}]</textarea>
+								<label class="wq_answerTxtCtr">Gritando.</label>
+							</div>
+						
+							<div class="wq_singleAnswerCtr wq_IsPersonality" style="background-color:#ecf0f1; color:#444;">
+								<textarea style="display:none;" class="wq_singleAnswerResultCtr" >[{"title":"En una marat\u00f3n aguantar\u00edas: 50k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 10k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 5k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 2k","points":"0"}]</textarea>
+								<label class="wq_answerTxtCtr">En silencio.</label>
+							</div>
+						
+							<div class="wq_singleAnswerCtr wq_IsPersonality" style="background-color:#ecf0f1; color:#444;">
+								<textarea style="display:none;" class="wq_singleAnswerResultCtr" >[{"title":"En una marat\u00f3n aguantar\u00edas: 50k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 10k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 5k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 2k","points":"0"}]</textarea>
+								<label class="wq_answerTxtCtr">Gritando como Chewbacca.</label>
+							</div>
+						
+							<div class="wq_singleAnswerCtr wq_IsPersonality" style="background-color:#ecf0f1; color:#444;">
+								<textarea style="display:none;" class="wq_singleAnswerResultCtr" >[{"title":"En una marat\u00f3n aguantar\u00edas: 50k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 10k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 5k","points":"0"},{"title":"En una marat\u00f3n aguantar\u00edas: 2k","points":"0"}]</textarea>
+								<label class="wq_answerTxtCtr">Subiendo una historia a Instagram.</label>
+							</div>
+						</div>
+							</div>
+							<span class="wq_retakeQuestionPlaceholder" data-bg-color="" data-font-color=""></span>
+						</div>
+						<div class="wq_continue" style="display:none;">
+							<button class="wq_btn-continue">Continue &gt;&gt;</button>
+						</div>
+					</div>
+				
+   	</div>
+   	<div class="wq_resultsCtr">
+        
+					<div style="display:none;" class="wq_singleResultWrapper wq_IsPersonality" data-points="0" data-rid="0">
+						<span class="wq_quizTitle">Completa este quiz y descubre cuántos kms. aguantarías en una maratón</span>
+						<div class="wq_resultTitle" data-title="En una maratón aguantarías: 50k"></div>
+						<p><img class="wq_resultImg" src="https://www.milo.cl/wp-content/uploads/2019/05/resp50k.gif"/></p>
+						<div class="wq_resultDesc">Eres un/a corredor/a de tomo y lomo. Naciste para correr y así lo demuestras todos los días. Pareces nunca cansarte y siempre buscas nuevos desafíos. ¡Felicitaciones!</div>
+						<!-- social share -->
+<div class="wq_shareCtr">
+<p style="font-size:14px;"></p>
+</div>
+<!--// social share-->
+					</div>
+				
+					<div style="display:none;" class="wq_singleResultWrapper wq_IsPersonality" data-points="0" data-rid="1">
+						<span class="wq_quizTitle">Completa este quiz y descubre cuántos kms. aguantarías en una maratón</span>
+						<div class="wq_resultTitle" data-title="En una maratón aguantarías: 10k"></div>
+						<p><img class="wq_resultImg" src="https://www.milo.cl/wp-content/uploads/2019/05/resp10k.gif"/></p>
+						<div class="wq_resultDesc">Correr es lo tuyo y pareciera que nada te detiene. Ahora aguantarías 10k, ¿pero sabes qué? Eres capaz de eso y mucho más. ¡Nunca te detengas!</div>
+						<!-- social share -->
+<div class="wq_shareCtr">
+<p style="font-size:14px;"></p>
+</div>
+<!--// social share-->
+					</div>
+				
+					<div style="display:none;" class="wq_singleResultWrapper wq_IsPersonality" data-points="0" data-rid="2">
+						<span class="wq_quizTitle">Completa este quiz y descubre cuántos kms. aguantarías en una maratón</span>
+						<div class="wq_resultTitle" data-title="En una maratón aguantarías: 5k"></div>
+						<p><img class="wq_resultImg" src="https://www.milo.cl/wp-content/uploads/2019/05/resp5k.gif"/></p>
+						<div class="wq_resultDesc">Según nosotros aguantarías 5km, ¡pero bah! Esto es solo un juego. Confiamos por completo en que puedes hacer todo lo que te propongas, y si quieres transformar esos 5 en 50k, ¿por qué no?</div>
+						<!-- social share -->
+<div class="wq_shareCtr">
+<p style="font-size:14px;"></p>
+</div>
+<!--// social share-->
+					</div>
+				
+					<div style="display:none;" class="wq_singleResultWrapper wq_IsPersonality" data-points="0" data-rid="3">
+						<span class="wq_quizTitle">Completa este quiz y descubre cuántos kms. aguantarías en una maratón</span>
+						<div class="wq_resultTitle" data-title="En una maratón aguantarías: 2k"></div>
+						<p><img class="wq_resultImg" src="https://www.milo.cl/wp-content/uploads/2019/05/resp2k.gif"/></p>
+						<div class="wq_resultDesc">Ok, tal vez correr no es lo tuyo… o tal vez solo por ahora. Lo importante es que lo tengas como una posibilidad, saques toda esa pasión que tienes dentro y ames al deporte tanto como nosotros. ¡Se puede!</div>
+						<!-- social share -->
+<div class="wq_shareCtr">
+<p style="font-size:14px;"></p>
+</div>
+<!--// social share-->
+					</div>
+				
+   	</div>
+   	<!-- force action -->
+        <div class="wq_quizForceActionCtr" style="display:none;">
+<div class="wq_quizEmailCtr" style="display:none;">
+<form id="wq_infoForm" action="" method="post">
+<p>Just tell us who you are to view your results !</p>
+<div><label>Your first name :</label><input type="text" id="wq_inputName"/></div>
+<div><label>Your email address :</label><input type="email" id="wq_inputEmail"/></div>
+<p><button type="submit" id="" style="background:#00c479">Show my results &gt;&gt;</button></p>
+</form>
+</div>
+<div class="wq_quizForceShareCtr" style="display:none;">
+<p>Please share this quiz to view your results.</p>
+<button class="wq_forceShareFB"><i class="fa fa-facebook icon"></i><span>Facebook</span></button>
+</div>
+</div>
+   	<!--// force action-->
+   	<!-- quiz timer -->
+        <div class="timerPlaceholder"></div>
+   	<!--// quiz timer-->
+   	<!-- embed code -->
+        
+   	<!--// embed code -->
+   	<!-- promote link -->
+        
+   	<!--// promote link-->
+   	<!-- retake button -->
+        <div class="wq_retakeQuizCtr" >
+<button style="display:none;" class="wq_retakeQuizBtn"><i class="fa fa-undo"></i>&nbsp;PLAY AGAIN !</button>
+</div>
+   	<!--// retake button-->
+</div>
+<!--// wp quiz-->
+<h2 class="p1">Si quieres demostrar realmente de qué estás hech@, no dejes la oportunidad para gritar #MELAPUEDO e <em><strong><a href="https://www.milo.cl/milocorridas/" target="_blank" rel="noopener">inscríbete aquí</a></strong></em> para la próxima Corrida MILO del 26 de mayo en Concepción.</h2>
+]]></content:encoded>
+			<wfw:commentRss>https://www.milo.cl/completa-este-quiz-y-descubre-cuantos-kms-aguantarias-en-una-maraton/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Este es el ranking de los mejores juegos típicos para este 18. El #1 debería estar en las Olimpiadas</title>
+		<link>https://www.milo.cl/este-es-el-ranking-de-los-mejores-juegos-tipicos-para-este-18-el-1-deberia-estar-en-las-olimpiadas/</link>
+		<comments>https://www.milo.cl/este-es-el-ranking-de-los-mejores-juegos-tipicos-para-este-18-el-1-deberia-estar-en-las-olimpiadas/#respond</comments>
+		<pubDate>Mon, 06 Jun 2016 17:50:52 +0000</pubDate>
+		<dc:creator><![CDATA[David Díaz]]></dc:creator>
+				<category><![CDATA[Sin categoría]]></category>
+
+		<guid isPermaLink="false">https://www.milo.cl/?p=4334</guid>
+		<description><![CDATA[La época más linda del año está aquí, y la respiramos día a día. En Fiestas Patrias nos volvemos más chilenos que nunca y pareciera que todo a nuestro alrededor lo hace junto a nosotros; las casas, las calles, los parques, los bailes, TODO, todo se “endiciochea”. Todo incluso nuestros juegos y deportes, de esos que conocemos como “juegos típicos”, esos que salen a flote para esta temporada y que varias veces nos han sacado alguna sonrisa y obvio, muchas&#8230;]]></description>
+				<content:encoded><![CDATA[<p class="p1">La época más linda del año está aquí, y la respiramos día a día.</p>
+<p class="p1">En Fiestas Patrias nos volvemos más chilenos que nunca y pareciera que todo a nuestro alrededor lo hace junto a nosotros; las casas, las calles, los parques, los bailes, TODO, todo se “endiciochea”.</p>
+<p><img src="https://media.giphy.com/media/VFl9q2bggeokL6kXFT/giphy.gif" /></p>
+<p class="p1">Todo incluso nuestros juegos y deportes, de esos que conocemos como “juegos típicos”, esos que salen a flote para esta temporada y que varias veces nos han sacado alguna sonrisa y obvio, muchas “gotas gordas”.</p>
+<p class="p1">¿Cuáles son <strong>los mejores deportes/juegos típicos según nosotros</strong>? Hice un ranking con los mejores cuatro, mira:</p>
+<h2>4. El palo encebado</h2>
+<p><img src="https://media.giphy.com/media/JPfnc6owq9q5pUQD75/giphy.gif" /></p>
+<p>¿Algo más típico chileno que este juego? Nope. La cosa es simple: subir por un palo de madera enterrado y que mide unos 20 centímetros de diámetro y entre 6 y 7 metros de altura. ¿Dije simple? Sorry, olvidé un pequeño detalle: todo está cubierto de aceite.</p>
+<hr />
+<h2>3. Tirar la cuerda</h2>
+<p><img src="https://media.giphy.com/media/dWs8rTdtCb96K2z8qg/giphy.gif" /></p>
+<p>Una cuerda larga, algunos por allá, otros por acá, y ponemos un pañuelito al medio de la cuerda junto con una marca en la tierra. A la cuenta de 3 un grupo tira hacia un lado, ¿y el otro?, para el otro lado, obvio. Ganan los que logran que el equipo contrario entre por completo a su área, o que claro, se rindan tirándose exhaustos al suelo.</p>
+<hr />
+<h2>2. Encumbrar volantín</h2>
+<p><img src="https://media.giphy.com/media/JqKEaMlDWci0qyTtIY/giphy.gif" /></p>
+<p>Ayayai, me encanta esta parte. Es que algo tienen los volantines que me hacen amarlos con toda el alma, y supongo que no soy el único, ¿cierto? Los volantines son un deporte tan antiguo como hermoso, en el que se mezclan un sin número de estilos y colores en el cielo. PERO OJO, prohibido usar hilo curado, ¿ya?, ¡o nunca más escribo estas notas!</p>
+<hr />
+<h2>1. La única e inigualable &#8220;yincana&#8221;</h2>
+<p><img src="https://media.giphy.com/media/gJuB88A4LWVxKepOoP/giphy.gif" /></p>
+<p>Ya, la yincana también es muuuuy entrete, porque es una competencia de varias personas y que tiene hartas etapas o pruebas, las que nosotros queramos en verdad, entre las típicas están: la carretilla (sí, la del GIF), caminar sin botar un huevo, buscar dulces en un plato con harina, masticar una manzana colgada y ¡el juego que se te ocurra!. Gana el equipo que logre cada una de las pruebas y listo.</p>
+<h2>Sea cual sea tu juego o deporte favorito para estas Fiestas Patrias, nunca dejes de practicar, jugar y pasarlo bien.</h2>
+<h2>Disfruta a tu familia y amigos este 18, acuérdate de no usar hilo curado y ¡grita muy fuerte #MELAPUEDO!</h2>
+<p><img src="https://media.giphy.com/media/hTh9bSbUPWMWk/giphy.gif" /></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.milo.cl/este-es-el-ranking-de-los-mejores-juegos-tipicos-para-este-18-el-1-deberia-estar-en-las-olimpiadas/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>El Tour Corridas MILO en Osorno&#8230; ¡fue todo un éxito!</title>
+		<link>https://www.milo.cl/el-tour-corridas-milo-en-osorno-fue-todo-un-exito/</link>
+		<comments>https://www.milo.cl/el-tour-corridas-milo-en-osorno-fue-todo-un-exito/#respond</comments>
+		<pubDate>Mon, 06 Jun 2016 17:50:08 +0000</pubDate>
+		<dc:creator><![CDATA[David Díaz]]></dc:creator>
+				<category><![CDATA[Sin categoría]]></category>
+
+		<guid isPermaLink="false">https://www.milo.cl/?p=3988</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[
+<a href='https://www.milo.cl/dcim100mediadji_0021-jpg/'><img width="300" height="169" src="https://www.milo.cl/wp-content/uploads/2019/03/DJI_0021-300x169.jpg" class="attachment-medium size-medium" alt="" srcset="https://www.milo.cl/wp-content/uploads/2019/03/DJI_0021-300x169.jpg 300w, https://www.milo.cl/wp-content/uploads/2019/03/DJI_0021-768x432.jpg 768w, https://www.milo.cl/wp-content/uploads/2019/03/DJI_0021-1024x576.jpg 1024w, https://www.milo.cl/wp-content/uploads/2019/03/DJI_0021.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href='https://www.milo.cl/dcim100mediadji_0008-jpg/'><img width="300" height="169" src="https://www.milo.cl/wp-content/uploads/2019/03/DJI_0008-300x169.jpg" class="attachment-medium size-medium" alt="" srcset="https://www.milo.cl/wp-content/uploads/2019/03/DJI_0008-300x169.jpg 300w, https://www.milo.cl/wp-content/uploads/2019/03/DJI_0008-768x432.jpg 768w, https://www.milo.cl/wp-content/uploads/2019/03/DJI_0008-1024x576.jpg 1024w, https://www.milo.cl/wp-content/uploads/2019/03/DJI_0008.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href='https://www.milo.cl/7v4a1613/'><img width="300" height="200" src="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1613-300x200.jpg" class="attachment-medium size-medium" alt="" srcset="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1613-300x200.jpg 300w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1613-768x512.jpg 768w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1613-1024x683.jpg 1024w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1613-600x400.jpg 600w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1613.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href='https://www.milo.cl/7v4a1612/'><img width="300" height="200" src="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1612-300x200.jpg" class="attachment-medium size-medium" alt="" srcset="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1612-300x200.jpg 300w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1612-768x512.jpg 768w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1612-1024x683.jpg 1024w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1612-600x400.jpg 600w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1612.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href='https://www.milo.cl/7v4a1606/'><img width="300" height="200" src="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1606-300x200.jpg" class="attachment-medium size-medium" alt="" srcset="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1606-300x200.jpg 300w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1606-768x512.jpg 768w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1606-1024x683.jpg 1024w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1606-600x400.jpg 600w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1606.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href='https://www.milo.cl/7v4a1601/'><img width="300" height="200" src="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1601-300x200.jpg" class="attachment-medium size-medium" alt="" srcset="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1601-300x200.jpg 300w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1601-768x512.jpg 768w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1601-1024x683.jpg 1024w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1601-600x400.jpg 600w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1601.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href='https://www.milo.cl/7v4a1600/'><img width="300" height="200" src="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1600-300x200.jpg" class="attachment-medium size-medium" alt="" srcset="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1600-300x200.jpg 300w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1600-768x512.jpg 768w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1600-1024x683.jpg 1024w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1600-600x400.jpg 600w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1600.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href='https://www.milo.cl/7v4a1597/'><img width="300" height="200" src="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1597-300x200.jpg" class="attachment-medium size-medium" alt="" srcset="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1597-300x200.jpg 300w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1597-768x512.jpg 768w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1597-1024x683.jpg 1024w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1597-600x400.jpg 600w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1597.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href='https://www.milo.cl/7v4a1593/'><img width="300" height="200" src="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1593-300x200.jpg" class="attachment-medium size-medium" alt="" srcset="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1593-300x200.jpg 300w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1593-768x512.jpg 768w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1593-1024x683.jpg 1024w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1593-600x400.jpg 600w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1593.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href='https://www.milo.cl/7v4a1585/'><img width="300" height="200" src="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1585-300x200.jpg" class="attachment-medium size-medium" alt="" srcset="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1585-300x200.jpg 300w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1585-768x512.jpg 768w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1585-1024x683.jpg 1024w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1585-600x400.jpg 600w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1585.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href='https://www.milo.cl/7v4a1565/'><img width="300" height="200" src="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1565-300x200.jpg" class="attachment-medium size-medium" alt="" srcset="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1565-300x200.jpg 300w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1565-768x512.jpg 768w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1565-1024x683.jpg 1024w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1565-600x400.jpg 600w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1565.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href='https://www.milo.cl/7v4a1562/'><img width="300" height="200" src="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1562-300x200.jpg" class="attachment-medium size-medium" alt="" srcset="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1562-300x200.jpg 300w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1562-768x512.jpg 768w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1562-1024x683.jpg 1024w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1562-600x400.jpg 600w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1562.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href='https://www.milo.cl/7v4a1330/'><img width="300" height="200" src="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1330-300x200.jpg" class="attachment-medium size-medium" alt="" srcset="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1330-300x200.jpg 300w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1330-768x512.jpg 768w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1330-1024x683.jpg 1024w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1330-600x400.jpg 600w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1330.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href='https://www.milo.cl/7v4a1328/'><img width="300" height="200" src="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1328-300x200.jpg" class="attachment-medium size-medium" alt="" srcset="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1328-300x200.jpg 300w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1328-768x512.jpg 768w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1328-1024x683.jpg 1024w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1328-600x400.jpg 600w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1328.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href='https://www.milo.cl/7v4a1310/'><img width="300" height="200" src="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1310-300x200.jpg" class="attachment-medium size-medium" alt="" srcset="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1310-300x200.jpg 300w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1310-768x512.jpg 768w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1310-1024x683.jpg 1024w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1310-600x400.jpg 600w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1310.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href='https://www.milo.cl/7v4a1309/'><img width="300" height="200" src="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1309-300x200.jpg" class="attachment-medium size-medium" alt="" srcset="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1309-300x200.jpg 300w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1309-768x512.jpg 768w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1309-1024x683.jpg 1024w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1309-600x400.jpg 600w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1309.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href='https://www.milo.cl/7v4a1307/'><img width="300" height="200" src="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1307-300x200.jpg" class="attachment-medium size-medium" alt="" srcset="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1307-300x200.jpg 300w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1307-768x512.jpg 768w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1307-1024x683.jpg 1024w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1307-600x400.jpg 600w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1307.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href='https://www.milo.cl/7v4a1305/'><img width="300" height="200" src="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1305-300x200.jpg" class="attachment-medium size-medium" alt="" srcset="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1305-300x200.jpg 300w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1305-768x512.jpg 768w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1305-1024x683.jpg 1024w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1305-600x400.jpg 600w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1305.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href='https://www.milo.cl/7v4a1301/'><img width="300" height="200" src="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1301-300x200.jpg" class="attachment-medium size-medium" alt="" srcset="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1301-300x200.jpg 300w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1301-768x512.jpg 768w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1301-1024x683.jpg 1024w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1301-600x400.jpg 600w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1301.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href='https://www.milo.cl/7v4a1297/'><img width="300" height="200" src="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1297-300x200.jpg" class="attachment-medium size-medium" alt="" srcset="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1297-300x200.jpg 300w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1297-768x512.jpg 768w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1297-1024x683.jpg 1024w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1297-600x400.jpg 600w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1297.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href='https://www.milo.cl/7v4a1295/'><img width="300" height="200" src="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1295-300x200.jpg" class="attachment-medium size-medium" alt="" srcset="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1295-300x200.jpg 300w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1295-768x512.jpg 768w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1295-1024x683.jpg 1024w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1295-600x400.jpg 600w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1295.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href='https://www.milo.cl/7v4a1291/'><img width="300" height="200" src="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1291-300x200.jpg" class="attachment-medium size-medium" alt="" srcset="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1291-300x200.jpg 300w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1291-768x512.jpg 768w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1291-1024x683.jpg 1024w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1291-600x400.jpg 600w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1291.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href='https://www.milo.cl/7v4a1257/'><img width="300" height="200" src="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1257-300x200.jpg" class="attachment-medium size-medium" alt="" srcset="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1257-300x200.jpg 300w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1257-768x512.jpg 768w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1257-1024x683.jpg 1024w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1257-600x400.jpg 600w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1257.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href='https://www.milo.cl/7v4a1240/'><img width="300" height="200" src="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1240-300x200.jpg" class="attachment-medium size-medium" alt="" srcset="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1240-300x200.jpg 300w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1240-768x512.jpg 768w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1240-1024x683.jpg 1024w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1240-600x400.jpg 600w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1240.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href='https://www.milo.cl/7v4a1238/'><img width="300" height="200" src="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1238-300x200.jpg" class="attachment-medium size-medium" alt="" srcset="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1238-300x200.jpg 300w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1238-768x512.jpg 768w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1238-1024x683.jpg 1024w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1238-600x400.jpg 600w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1238.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href='https://www.milo.cl/7v4a1205/'><img width="300" height="200" src="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1205-300x200.jpg" class="attachment-medium size-medium" alt="" srcset="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1205-300x200.jpg 300w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1205-768x512.jpg 768w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1205-1024x683.jpg 1024w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1205-600x400.jpg 600w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1205.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href='https://www.milo.cl/7v4a1204/'><img width="300" height="200" src="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1204-300x200.jpg" class="attachment-medium size-medium" alt="" srcset="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1204-300x200.jpg 300w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1204-768x512.jpg 768w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1204-1024x683.jpg 1024w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1204-600x400.jpg 600w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1204.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href='https://www.milo.cl/7v4a1181/'><img width="300" height="200" src="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1181-300x200.jpg" class="attachment-medium size-medium" alt="" srcset="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1181-300x200.jpg 300w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1181-768x512.jpg 768w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1181-1024x683.jpg 1024w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1181-600x400.jpg 600w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1181.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href='https://www.milo.cl/7v4a1158/'><img width="300" height="200" src="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1158-300x200.jpg" class="attachment-medium size-medium" alt="" srcset="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1158-300x200.jpg 300w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1158-768x512.jpg 768w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1158-1024x683.jpg 1024w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1158-600x400.jpg 600w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1158.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+<a href='https://www.milo.cl/7v4a1078/'><img width="300" height="200" src="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1078-300x200.jpg" class="attachment-medium size-medium" alt="" srcset="https://www.milo.cl/wp-content/uploads/2019/03/7V4A1078-300x200.jpg 300w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1078-768x512.jpg 768w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1078-1024x683.jpg 1024w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1078-600x400.jpg 600w, https://www.milo.cl/wp-content/uploads/2019/03/7V4A1078.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" /></a>
+
+]]></content:encoded>
+			<wfw:commentRss>https://www.milo.cl/el-tour-corridas-milo-en-osorno-fue-todo-un-exito/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>De todas estas ciudades son los equipos que se enfrentarán en la FINAL de la Copa MILO</title>
+		<link>https://www.milo.cl/de-todas-estas-ciudades-son-los-equipos-que-se-enfrentaran-en-la-final-de-la-copa-milo/</link>
+		<comments>https://www.milo.cl/de-todas-estas-ciudades-son-los-equipos-que-se-enfrentaran-en-la-final-de-la-copa-milo/#respond</comments>
+		<pubDate>Mon, 06 Jun 2016 16:57:35 +0000</pubDate>
+		<dc:creator><![CDATA[David Díaz]]></dc:creator>
+				<category><![CDATA[Sin categoría]]></category>
+
+		<guid isPermaLink="false">https://www.milo.cl/?p=4227</guid>
+		<description><![CDATA[Luego de 3 meses, 11 ciudades y 12 campeonatos, la Copa MILO Chile, al igual que la mayoría de las cosas buenas de la vida, debe terminar&#8230; ¡Pero tranquil@! No decimos esto para ponernos tristes, ni empezar a enviarnos los stickers más s4d que tengamos en WhatsApp, sino para alegrarnos… Porque se viene la mejor parte del campeonato: LA FINAL, donde luego de un arduo pero entretenido camino, 40 equipos clasificados se enfrentarán este domingo 23 de junio en el&#8230;]]></description>
+				<content:encoded><![CDATA[<p class="p1"><strong>Luego de 3 meses, 11 ciudades y 12 campeonatos</strong>, la Copa MILO Chile, al igual que la mayoría de las cosas buenas de la vida, debe terminar&#8230;</p>
+<p><img class="alignnone size-full wp-image-4252" src="https://www.milo.cl/wp-content/uploads/2019/06/sad.gif" alt="" width="400" height="200" /></p>
+<p class="p1">¡Pero tranquil@! No decimos esto para ponernos tristes, ni empezar a enviarnos los stickers más s4d que tengamos en WhatsApp, sino para alegrarnos… Porque se viene la mejor parte del campeonato: LA FINAL, donde luego de un arduo pero entretenido camino, 40 equipos clasificados se enfrentarán este domingo 23 de junio en el Estadio Bicentenario de La Florida.</p>
+<h2 class="p1">Y claro, sin dejar de mencionar que el 30 de julio, nuestro equipo ganador emprenderá rumbo a la ciudad de Barcelona para representar a MILO Chile en la MILO Champions Cup.</h2>
+<p><img class="alignnone size-full wp-image-4249" src="https://www.milo.cl/wp-content/uploads/2019/06/happpy.gif" alt="" width="400" height="200" /></p>
+<p class="p1">Ok, pero, ¿todos los equipos son de Santiago? ¡Obvio que no! Acuérdate que una de las grandes novedades de esta Copa fue que recorrimos 11 ciudades para quedarnos sólo con los mejores de todo Chile.</p>
+<p class="p1">Y para recibir bien preparados la gran final, acá quisimos hacer un <strong>recuento de las ciudades</strong> junto a sus respectivos equipos, ponle mucho ojo:</p>
+<h2><strong>Norte:</strong></h2>
+<p><img class="alignnone size-full wp-image-4247" src="https://www.milo.cl/wp-content/uploads/2019/06/gifnotamilo1.gif" alt="" width="400" height="200" /></p>
+<p><strong>Iquique</strong> (Inter de Alto Hospicio, Club Colegio Deportivo 1, Colegio Mahatma Gandhi A).</p>
+<p><strong>Antofagasta</strong> (Boca Juniors, Chango López, Escuela E-97 La Bandera).</p>
+<p><strong>La Serena</strong> (Cobreloa La Serena 1, Colegio Gerónimo Rendic, Escuela José Tomás Ovalle A, Aurinegro Coquimbo).</p>
+<h2><strong>Centro:</strong></h2>
+<p><img class="alignnone size-full wp-image-4248" src="https://www.milo.cl/wp-content/uploads/2019/06/gifper.gif" alt="" width="400" height="200" /></p>
+<p><strong>Santiago</strong> (Fútbol Total Huechuraba, Paris San Joaquín, La Rojita de Maipú, Club Deportivo Ciudad De Dios, Colegio República de Siria e Independencia).</p>
+<p><strong>Viña del Mar</strong> (Aurinegro, Gemelas y Primos y Colegio Aconcagua de Quilpué).</p>
+<p><strong>Rancagua</strong> (Atenea Rancagua, Instituto San Fernando y Colegio España).</p>
+<h2><strong>Sur:</strong></h2>
+<p><img class="alignnone size-full wp-image-4250" src="https://www.milo.cl/wp-content/uploads/2019/06/notagiffff.gif" alt="" width="400" height="200" /></p>
+<p><strong>Puerto Montt</strong> (Recreativo Puerto Varas C, Feria Osorno, British Patagonia y Los Pumas).</p>
+<p><strong>Osorno</strong> (Rehua, Mixto Águilas Unidas, Provincial Osorno y Academia A).</p>
+<p><strong>Temuco</strong> (Pequeños Gigantes, Clara Brincefield y Escuela Municipal Los Trigales).</p>
+<p><strong>Concepción</strong> (Villa Belén Jr., Liceo Bicentenario San Nicolás, Los Shishigang).</p>
+<p><strong>Talca</strong> (Pelarco Jr., La Albiceleste, 7ºB y Escuela Alto Pangue).</p>
+<p class="p1">Luego de un sorteo con el que ordenamos a tooodos estos equipos en 10 grupos de 4 equipos cada uno (<strong><a href="https://www.facebook.com/melapuedo/videos/384660919062335/" target="_blank" rel="noopener"><em>y que puedes hacer click aquí para revisarlo</em></a></strong>), los 10 mejores junto a los 6 con mayor cantidad de tarjetas verdes clasificarán al famoso Play-off, que no es más que una llave de ELIMINACIÓN DIRECTA con 8 equipos por lado.</p>
+<p>O sea, <strong>todo puede pasar</strong>.</p>
+<h2 class="p1">Ven con amigos, familiares o quien quieras a la gran final de la Copa MILO Chile este domingo 23 de junio desde las 09:30 a.m. en el Estadio Bicentenario de La Florida, ¡y vivamos juntos la fiesta deportiva del año!</h2>
+<p>Si eres de alguna región en competencia y vives en Santiago, anímate y apoya a tu finalista este domingo.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.milo.cl/de-todas-estas-ciudades-son-los-equipos-que-se-enfrentaran-en-la-final-de-la-copa-milo/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>He aquí algunos de los corredores más increíbles del mundo, ¿los conocías?</title>
+		<link>https://www.milo.cl/he-aqui-algunos-de-los-corredores-mas-increibles-del-mundo-los-conocias/</link>
+		<comments>https://www.milo.cl/he-aqui-algunos-de-los-corredores-mas-increibles-del-mundo-los-conocias/#respond</comments>
+		<pubDate>Mon, 06 Jun 2016 16:39:13 +0000</pubDate>
+		<dc:creator><![CDATA[David Díaz]]></dc:creator>
+				<category><![CDATA[Sin categoría]]></category>
+
+		<guid isPermaLink="false">https://www.milo.cl/?p=4084</guid>
+		<description><![CDATA[Uno de ellos, aunque no lo creas, corre de espaldas.]]></description>
+				<content:encoded><![CDATA[<p class="p1">Antes de llegar al mundo, en algún momento estando dentro de la guatita de nuestras mamis (un saludo a mi mamita, tkm), en el cerebro empezamos a generar unas explosivas ganas de conocer más allá, de salir del nido, <strong>de correr</strong>.</p>
+<p><img src="https://media.giphy.com/media/lpnNUbjJbtDwrHsSpz/giphy.gif" /></p>
+<p class="p1">Porque claro, CORRER nace de esos pensamientos, de querer conocer nuevos paisajes, de aceptar aventuras y entender los límites de nuestro cuerpo, mente y corazón. Nace de esas ganas de <strong>no aceptar la tranquilidad</strong> en la que estamos, ni lo cómodo que puede llegar a ser ese sillón que nos ha acompañado durante tantas partidas de Clash.</p>
+<p class="p1"><strong>Correr es ser inquieto</strong>, es siempre llegar más lejos, enfrentar los miedos y superar cualquier tipo de obstáculo por más difícil que parezca, igualito a como lo hicieron <strong>los corredores más increíbles del mundo.</strong></p>
+<p>¿Quieres conocer nuestros favoritos? Ya po, démosle entonces:</p>
+<h2><strong>La abuela runner</strong></h2>
+<p><img src="https://media.giphy.com/media/Ihgx9sqyiTSWkKODzW/giphy.gif" /></p>
+<p>Deirdre Larkin es una tierna abuelita de 87 años que tiene una vida un tanto distinta a la de otras abuelitas. Deirdre además de tocar el piano y ser profe de arte, hace running; compitió en más de 500 pruebas y tiene 80 récords a su haber, con osteoporosis y todo. ¡Seca!</p>
+<hr />
+<h2><strong>El Forrest Gump francés</strong></h2>
+<p><img src="https://media.giphy.com/media/UQJhBbHr2qWqhmu33r/giphy.gif" /></p>
+<p>Todos conocemos a Forrest, el característico personaje que de un día para otro decide correr, correr y correr. Algo muy parecido a lo que pasó con Serge Girard, un francés que ya dio la &#8220;primera vuelta al mundo corriendo&#8221;, con 1.000 maratones (2 diarios) sin un día de descanso. ¿Qué tal?</p>
+<hr />
+<h2><strong>La mamá ultramaratonista</strong></h2>
+<p><img class="alignnone size-full wp-image-4090" src="https://www.milo.cl/wp-content/uploads/2019/04/mama.jpg" alt="" width="400" height="200" srcset="https://www.milo.cl/wp-content/uploads/2019/04/mama.jpg 400w, https://www.milo.cl/wp-content/uploads/2019/04/mama-300x150.jpg 300w" sizes="(max-width: 400px) 100vw, 400px" /></p>
+<p>Era el kilómetro 78 del Ultra Trail Mont Blanc, la histórica prueba de resistencia en Los Alpes, cuando Sophie Power dio una pausa a la competencia y amamantó a su bebé de tan solo 3 meses. Una imagen que dio vuelta al mundo e inspiró a millones, ¡y cómo no!</p>
+<hr />
+<h2><strong>El corredor ayuwoki</strong></h2>
+<p><img src="https://media.giphy.com/media/duuQNmTf1lNusc6RJB/giphy.gif" /></p>
+<p>Lo que comenzó como una broma junto a un compañero de carrera, ahora es parte del estilo de Markus Jürgens, que corre maratones como el singular baile de espaldas de Michael Jackson. ¿Lo que más le gusta? Que puede ver las emociones de los demás corredores.</p>
+<p>En resumen, nada es impedimento para querer superarte, mentalizarte y hacer lo que sea que quieras hacer.</p>
+<h2>Así que no lo dudes más e<em><strong> <a href="https://www.milo.cl/milocorridas/" target="_blank" rel="noopener">inscríbete aquí</a></strong></em> para el próximo Tour Corridas MILO 2019 que será el domingo 28 de abril en Temuco, y gritemos juntos ¡ME LA PUEDO!</h2>
+<p><img src="https://media.giphy.com/media/KG64ZnkMRa5OyXf6BZ/giphy.gif" /></p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.milo.cl/he-aqui-algunos-de-los-corredores-mas-increibles-del-mundo-los-conocias/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>¿Por qué correr cerca del mar es la mejor idea de todos los tiempos?</title>
+		<link>https://www.milo.cl/por-que-correr-cerca-del-mar-es-la-mejor-idea-de-todos-los-tiempos/</link>
+		<comments>https://www.milo.cl/por-que-correr-cerca-del-mar-es-la-mejor-idea-de-todos-los-tiempos/#respond</comments>
+		<pubDate>Mon, 06 Jun 2016 16:18:24 +0000</pubDate>
+		<dc:creator><![CDATA[David Díaz]]></dc:creator>
+				<category><![CDATA[Sin categoría]]></category>
+
+		<guid isPermaLink="false">https://www.milo.cl/?p=4291</guid>
+		<description><![CDATA[Mar, océano, playita deliciosa, o como quieras llamarle, la cosa es que solo existe UNA gran verdad al respecto: todos amamos el mar. (Bueno, bueno, tal vez no todos, pero sí somos hartos, ¿ya?) Es que algo tiene el mar que nos llega justo en lo más profundo del alma y pareciera llenarnos por completo, como si con tan solo estar cerca de él estuviésemos mejor con nosotros mismos o incluso fuésemos mejores personas, porque claro, como que nos &#8220;purificamos&#8221;, ¿o&#8230;]]></description>
+				<content:encoded><![CDATA[<p>Mar, océano, playita deliciosa, o como quieras llamarle, la cosa es que solo existe UNA gran verdad al respecto: <strong>todos amamos el mar</strong>. (Bueno, bueno, tal vez no todos, pero sí somos hartos, ¿ya?)</p>
+<p><img src="https://www.milo.cl/wp-content/uploads/2019/08/blabla.gif" alt="" width="480" height="270" class="alignnone size-full wp-image-4320" /></p>
+<p>Es que algo tiene el mar que nos llega justo en lo más profundo del alma y pareciera llenarnos por completo, como si con tan solo estar cerca de él estuviésemos mejor con nosotros mismos o incluso fuésemos mejores personas, porque claro, como que nos &#8220;purificamos&#8221;, ¿o no?</p>
+<p>Sea como sea que te afecte la presencia del mar, el tema dejó de ser un secreto hace rato e incluso varios científicos, biólogos marinos y pensadores han escrito sobre los <strong>múltiples beneficios que nos entrega el océano, sobre todo cuando hacemos deporte cerca de él</strong>.</p>
+<p>¿Quieres conocer algunos? Dale, sigamos entonces:</p>
+<h2>1. Es una increíble fuente de inspiración</h2>
+<p><img src="https://www.milo.cl/wp-content/uploads/2019/08/bla1.gif" alt="" width="480" height="270" class="alignnone size-full wp-image-4296" /></p>
+<p>Y cómo no te vas a inspirar si con tan solo mirar este gif ya dan ganas de escribir, pintar, correr aún más rápido o cambiar el mundo. Para nadie es un secreto que el mar relaja y ayuda a meditar, a pensar y a ser aún más creativo, En SeRiO.</p>
+<hr />
+<h2>2. Respiras MUCHO mejor</h2>
+<p><img src="https://www.milo.cl/wp-content/uploads/2019/08/bla2.gif" alt="" width="480" height="270" class="alignnone size-full wp-image-4299" /></p>
+<p>Una ciudad con playa tiene mejor ventilación que una ciudad sin, por lo tanto, tiene menor contaminación, POR LO TANTO DE NUEVO, tus pulmones se llenan de aire limpio marino, que además ayuda a fijar el oxígeno y a producir ozono, previniendo enfermedades respiratorias, ¿qué tal?</p>
+<hr />
+<h2>3. Tu cuerpo responde bacán</h2>
+<p><img src="https://www.milo.cl/wp-content/uploads/2019/08/bla3.gif" alt="" width="480" height="270" class="alignnone size-full wp-image-4297" /></p>
+<p>Un lugar que se encuentre al mismo nivel del mar tiene una mejor presión atmosférica, por lo que la cantidad de oxigeno en el aire es mayor, ayudando a la oxigenación de nuestros órganos, piel, pelo y lo que se te ocurra, todo para correr como un campeón.</p>
+<hr />
+<h2>4. Te olvidas del estrés</h2>
+<p><img src="https://www.milo.cl/wp-content/uploads/2019/08/blable.gif" alt="" width="480" height="270" class="alignnone size-full wp-image-4322" /></p>
+<p>Cuando miramos hacia el mar percibimos un entorno predecible, estable, tranquilo y libre de amenazas, lo que le transmite a nuestro cerebro una sensación de seguridad, estabilidad y plenitud. ¡Admite que más de alguna vez has sentido algo así! &lt;3</p>
+<p>Ahora sólo queda acercarse a la playita, ponerse el mejor atuendo deportivo, abrocharse bien las zapatillas y correr como si no existiese un mañana.</p>
+<h2>Y obvio, prepararse para correr mirando al mar en la próxima Corrida MILO en Antofagasta, este domingo 25 de agosto. <a href="https://www.milo.cl/milocorridas/" target="_blank" rel="noopener"><strong><em>Inscríbete haciendo click aquí</em></strong></a>, yo sé que te mueres de ganas.</h2>
+]]></content:encoded>
+			<wfw:commentRss>https://www.milo.cl/por-que-correr-cerca-del-mar-es-la-mejor-idea-de-todos-los-tiempos/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>¡Así fue la primera Copa MILO 2019 en Santiago!</title>
+		<link>https://www.milo.cl/asi-fue-la-primera-copa-milo-2019-en-santiago/</link>
+		<comments>https://www.milo.cl/asi-fue-la-primera-copa-milo-2019-en-santiago/#respond</comments>
+		<pubDate>Mon, 06 Jun 2016 15:17:00 +0000</pubDate>
+		<dc:creator><![CDATA[David Díaz]]></dc:creator>
+				<category><![CDATA[Sin categoría]]></category>
+
+		<guid isPermaLink="false">https://www.milo.cl/?p=3923</guid>
+		<description><![CDATA[]]></description>
+				<content:encoded><![CDATA[
+<a href='https://www.milo.cl/asi-fue-la-primera-copa-milo-2019-en-santiago/_jrt8184/'><img width="150" height="150" src="https://www.milo.cl/wp-content/uploads/2019/03/JRT8184-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='https://www.milo.cl/asi-fue-la-primera-copa-milo-2019-en-santiago/_jrt8194/'><img width="150" height="150" src="https://www.milo.cl/wp-content/uploads/2019/03/JRT8194-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='https://www.milo.cl/asi-fue-la-primera-copa-milo-2019-en-santiago/_jrt8197/'><img width="150" height="150" src="https://www.milo.cl/wp-content/uploads/2019/03/JRT8197-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='https://www.milo.cl/asi-fue-la-primera-copa-milo-2019-en-santiago/_jrt8217/'><img width="150" height="150" src="https://www.milo.cl/wp-content/uploads/2019/03/JRT8217-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='https://www.milo.cl/asi-fue-la-primera-copa-milo-2019-en-santiago/_jrt8230/'><img width="150" height="150" src="https://www.milo.cl/wp-content/uploads/2019/03/JRT8230-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='https://www.milo.cl/asi-fue-la-primera-copa-milo-2019-en-santiago/_jrt8260/'><img width="150" height="150" src="https://www.milo.cl/wp-content/uploads/2019/03/JRT8260-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='https://www.milo.cl/asi-fue-la-primera-copa-milo-2019-en-santiago/_jrt8290/'><img width="150" height="150" src="https://www.milo.cl/wp-content/uploads/2019/03/JRT8290-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='https://www.milo.cl/asi-fue-la-primera-copa-milo-2019-en-santiago/_jrt8300/'><img width="150" height="150" src="https://www.milo.cl/wp-content/uploads/2019/03/JRT8300-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='https://www.milo.cl/asi-fue-la-primera-copa-milo-2019-en-santiago/_jrt8306/'><img width="150" height="150" src="https://www.milo.cl/wp-content/uploads/2019/03/JRT8306-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='https://www.milo.cl/asi-fue-la-primera-copa-milo-2019-en-santiago/_jrt8317/'><img width="150" height="150" src="https://www.milo.cl/wp-content/uploads/2019/03/JRT8317-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='https://www.milo.cl/asi-fue-la-primera-copa-milo-2019-en-santiago/_jrt8419/'><img width="150" height="150" src="https://www.milo.cl/wp-content/uploads/2019/03/JRT8419-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='https://www.milo.cl/asi-fue-la-primera-copa-milo-2019-en-santiago/_jrt8438/'><img width="150" height="150" src="https://www.milo.cl/wp-content/uploads/2019/03/JRT8438-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='https://www.milo.cl/asi-fue-la-primera-copa-milo-2019-en-santiago/_jrt8498/'><img width="150" height="150" src="https://www.milo.cl/wp-content/uploads/2019/03/JRT8498-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='https://www.milo.cl/asi-fue-la-primera-copa-milo-2019-en-santiago/_jrt8505/'><img width="150" height="150" src="https://www.milo.cl/wp-content/uploads/2019/03/JRT8505-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='https://www.milo.cl/asi-fue-la-primera-copa-milo-2019-en-santiago/_jrt8533/'><img width="150" height="150" src="https://www.milo.cl/wp-content/uploads/2019/03/JRT8533-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='https://www.milo.cl/asi-fue-la-primera-copa-milo-2019-en-santiago/_jrt8535/'><img width="150" height="150" src="https://www.milo.cl/wp-content/uploads/2019/03/JRT8535-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='https://www.milo.cl/asi-fue-la-primera-copa-milo-2019-en-santiago/_jrt8552/'><img width="150" height="150" src="https://www.milo.cl/wp-content/uploads/2019/03/JRT8552-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='https://www.milo.cl/asi-fue-la-primera-copa-milo-2019-en-santiago/_jrt8603/'><img width="150" height="150" src="https://www.milo.cl/wp-content/uploads/2019/03/JRT8603-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='https://www.milo.cl/asi-fue-la-primera-copa-milo-2019-en-santiago/_jrt8618/'><img width="150" height="150" src="https://www.milo.cl/wp-content/uploads/2019/03/JRT8618-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='https://www.milo.cl/asi-fue-la-primera-copa-milo-2019-en-santiago/_jrt8634/'><img width="150" height="150" src="https://www.milo.cl/wp-content/uploads/2019/03/JRT8634-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='https://www.milo.cl/asi-fue-la-primera-copa-milo-2019-en-santiago/_jrt8641/'><img width="150" height="150" src="https://www.milo.cl/wp-content/uploads/2019/03/JRT8641-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='https://www.milo.cl/asi-fue-la-primera-copa-milo-2019-en-santiago/_jrt8659/'><img width="150" height="150" src="https://www.milo.cl/wp-content/uploads/2019/03/JRT8659-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='https://www.milo.cl/asi-fue-la-primera-copa-milo-2019-en-santiago/_mg_4143/'><img width="150" height="150" src="https://www.milo.cl/wp-content/uploads/2019/03/MG_4143-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='https://www.milo.cl/asi-fue-la-primera-copa-milo-2019-en-santiago/_mg_4435/'><img width="150" height="150" src="https://www.milo.cl/wp-content/uploads/2019/03/MG_4435-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='https://www.milo.cl/asi-fue-la-primera-copa-milo-2019-en-santiago/_mg_4485/'><img width="150" height="150" src="https://www.milo.cl/wp-content/uploads/2019/03/MG_4485-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='https://www.milo.cl/asi-fue-la-primera-copa-milo-2019-en-santiago/_mg_4555/'><img width="150" height="150" src="https://www.milo.cl/wp-content/uploads/2019/03/MG_4555-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='https://www.milo.cl/asi-fue-la-primera-copa-milo-2019-en-santiago/_mg_4580/'><img width="150" height="150" src="https://www.milo.cl/wp-content/uploads/2019/03/MG_4580-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='https://www.milo.cl/asi-fue-la-primera-copa-milo-2019-en-santiago/_mg_4623/'><img width="150" height="150" src="https://www.milo.cl/wp-content/uploads/2019/03/MG_4623-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='https://www.milo.cl/asi-fue-la-primera-copa-milo-2019-en-santiago/_mg_4702/'><img width="150" height="150" src="https://www.milo.cl/wp-content/uploads/2019/03/MG_4702-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='https://www.milo.cl/asi-fue-la-primera-copa-milo-2019-en-santiago/_mg_4734/'><img width="150" height="150" src="https://www.milo.cl/wp-content/uploads/2019/03/MG_4734-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='https://www.milo.cl/asi-fue-la-primera-copa-milo-2019-en-santiago/_mg_4785/'><img width="150" height="150" src="https://www.milo.cl/wp-content/uploads/2019/03/MG_4785-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+<a href='https://www.milo.cl/asi-fue-la-primera-copa-milo-2019-en-santiago/_mg_4919/'><img width="150" height="150" src="https://www.milo.cl/wp-content/uploads/2019/03/MG_4919-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+
+]]></content:encoded>
+			<wfw:commentRss>https://www.milo.cl/asi-fue-la-primera-copa-milo-2019-en-santiago/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Los mejores golazos de la historia (para nosotros, claro)</title>
+		<link>https://www.milo.cl/los-mejores-golazos-de-la-historia-para-nosotros-claro/</link>
+		<comments>https://www.milo.cl/los-mejores-golazos-de-la-historia-para-nosotros-claro/#respond</comments>
+		<pubDate>Mon, 06 Jun 2016 13:52:51 +0000</pubDate>
+		<dc:creator><![CDATA[David Díaz]]></dc:creator>
+				<category><![CDATA[Sin categoría]]></category>
+
+		<guid isPermaLink="false">https://www.milo.cl/?p=3970</guid>
+		<description><![CDATA[Deportes entretes hay muchos, y sin duda todos han tenido memorables logros que han enviado nuestros niveles de hype hacia las nubes, como los 9,63 segundos de Usain Bolt en los 100 mts. planos, el primer 900º del gran Tony Hawk, o el niño que no supo cómo agarró tanto vuelo. La cosa es que, aunque para algunos esos logros parezcan súper reconocidos, la verdad es que no lo son TANTO como esos que tienen relación con el deporte más&#8230;]]></description>
+				<content:encoded><![CDATA[<p>Deportes entretes hay muchos, y sin duda todos han tenido memorables logros que han enviado nuestros niveles de hype hacia las nubes, como los 9,63 segundos de Usain Bolt en los 100 mts. planos, el primer 900º del gran Tony Hawk, o el niño que no supo cómo agarró tanto vuelo.</p>
+<p><img src="https://media.giphy.com/media/1zijqI20PE88hEzJ9N/giphy.gif" /></p>
+<p class="p1">La cosa es que, aunque para algunos esos logros parezcan súper reconocidos, la verdad es que no lo son TANTO como esos que tienen relación con <strong>el deporte más amado del planeta</strong>, la pasión de multitudes… exacto, el <span style="text-decoration: line-through;">PUBG</span> fútbol.</p>
+<p class="p1">Es por eso que en esta ocasión quisimos hacer un homenaje y recordar nuestros</p>
+<h2 class="p1">7 mejores goles de todos los tiempos.</h2>
+<p>(OJO, que ésta es una <strong>selección nuestra</strong>, más específicamente del Sr. escritor MILO que está tras pantalla, por lo que no significa que estos realmente sean los mejores goles del universo ni mucho menos. Si tú tienes otra opinión, dale, coméntanos tus goles favoritos en Facebook o Instagram y conversamos un rato).</p>
+<h2><strong>7. El tiro libre que desafió a la física</strong></h2>
+<p><img src="https://media.giphy.com/media/2WdRaqmwSDbVyVQO7Q/giphy.gif" /></p>
+<p>Ya han pasado más de 20 años de ese <strong><em><a href="https://www.youtube.com/watch?v=FKmZynlk7N0&amp;feature=youtu.be&amp;t=7" target="_blank" rel="noopener">golazo &#8220;imposible&#8221;</a></em></strong> de Roberto Carlos. Es que la curvatura que agarró el disparo fue tal, que incluso científicos de todo lo mundo lo han intentado analizar. Increíble, ¿no crees?</p>
+<hr />
+<h2><strong>6. Stephanie y su 1-2-3</strong></h2>
+<p><img src="https://media.giphy.com/media/yybrqYbGKhpnN635nb/giphy.gif" /></p>
+<p>Stephanie Roche es una talentosa futbolista irlandesa que hizo <strong><em><a href="https://www.youtube.com/watch?v=dyiI2jZTnhU&amp;feature=youtu.be&amp;t=5" target="_blank" rel="noopener">un gol TAN perfecto</a> </em></strong>que le valió una nominación al premio Puskás de la FIFA como gol del año en 2014. ¡Y cómo no!</p>
+<hr />
+<h2><strong>5. El bombazo de Dinho</strong></h2>
+<p><img src="https://media.giphy.com/media/TFTLHdit8VMEi0Z4F6/giphy.gif" /></p>
+<p>Era un 3 de septiembre de 2003 cuando el arquero del Barça, Victor Valdés, lanzó un extenso pase hacia la figura de la cancha, el único, la bestia: Ronaldinho Gaúcho.<strong><em> <a href="https://www.youtube.com/watch?v=V41Bs_JDZz8" target="_blank" rel="noopener">Lo demás es historia</a>.</em></strong></p>
+<hr />
+<h2><strong>4. Bárbara, la imparable</strong></h2>
+<p><img src="https://media.giphy.com/media/XJeO8YAvEvJaQfce5F/giphy.gif" /></p>
+<p>Bárbara Latorre protagoniza<strong> <a href="https://www.youtube.com/watch?v=ahvII8Wuqw4" target="_blank" rel="noopener">un gol perfecto e irrepetible</a>,</strong> de esos que te entregan tantas sensaciones por segundo que sólo quieres tomar una pelota e intentar ser tan buen jugadora como ella. Sin palabras.</p>
+<hr />
+<h2><strong>3. Maradó llevándose a todos</strong></h2>
+<p><img src="https://media.giphy.com/media/fejrOqE6MxZNidysW9/giphy.gif" /></p>
+<p>Uno, dos, tres, cuatro, cinco, y hasta SEIS jugadores dejó atrás el que para muchos fue el dios del fútbol, Diego Maradona, para luego cerrarlo todo con una exquisita definición frente al arquero de Inglaterra el año 86. No por nada lo llaman <strong><em><a href="https://youtu.be/1wVho3I0NtU?t=20" target="_blank" rel="noopener">&#8220;El gol del siglo&#8221;</a>.</em></strong></p>
+<hr />
+<h2><strong>2. Pelé y el gol de los 4 sombreros</strong></h2>
+<p><img src="https://media.giphy.com/media/5YbUrZ5i45kfWpjdR0/giphy.gif" /></p>
+<p>El histórico Edson Arantes do Nascimento, más conocido como &#8220;Pelé&#8221;, protagonizó el año 1959 <em><strong><a href="https://youtu.be/ZqaO24aSEZ0?t=7" target="_blank" rel="noopener">un gol tan delicioso como antiguo</a></strong></em>, por lo que actualmente se puede disfrutar gracias a una recreación computacional de la gran hazaña, siguiendo testimonios de compañeros, rivales y la misma gente presente. ¡PERO SI SON 4 GLOBITOS!</p>
+<p>Me imagino que justo ahora te estás preguntando &#8220;¿Y el golazo número 1, quién lo hizo?&#8221;&#8230; y la verdad, es que la respuesta es súper simple: <strong>TÚ</strong>.</p>
+<h2>Sí, porque ya comenzó la gran Copa MILO Chile 2019 y queremos que todos nos deleiten con sus GOLAZOS.</h2>
+<h2>Inscribe a tu equipo ahora y no te quedes fuera del evento del año que incluso te puede llevar a disputar la MILO Champions Cup 2019. <em><strong><a href="http://www.milo.cl/copamilo" target="_blank" rel="noopener">Inscríbete aquí</a>.</strong></em></h2>
+]]></content:encoded>
+			<wfw:commentRss>https://www.milo.cl/los-mejores-golazos-de-la-historia-para-nosotros-claro/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

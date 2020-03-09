@@ -5,6 +5,34 @@
 
 @section('body')
 
+<style type="text/css">
+    #divPrincipal {
+        background-image: url('/assets/images/portada_productos_MILO_con_logo.jpg');
+    }
+
+    .imageProduct {
+        height: 390px;
+    }
+
+    .detailProduct {
+        height: 410px;
+    }
+
+
+    .detailText a {
+        background-color: #FBE600;
+        width: 80% !important;
+        font-weight: 900 !important;
+        color: #049939;
+        font-size: 25px;
+        font-family: Roboto Black, arial;
+        padding: 0 10px;
+        text-transform: uppercase;
+        text-decoration: none;
+    }
+
+</style>
+
 <div class="clear"></div>
 
 <div id="main" class="main" style="padding: 0px; margin: 0px;">
