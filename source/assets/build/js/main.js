@@ -115,8 +115,8 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /var/www/html/milo_jigsaw/source/_assets/js/main.js */"./source/_assets/js/main.js");
-module.exports = __webpack_require__(/*! /var/www/html/milo_jigsaw/source/_assets/sass/main.scss */"./source/_assets/sass/main.scss");
+__webpack_require__(/*! /var/www/html/milo_jitsaw/source/_assets/js/main.js */"./source/_assets/js/main.js");
+module.exports = __webpack_require__(/*! /var/www/html/milo_jitsaw/source/_assets/sass/main.scss */"./source/_assets/sass/main.scss");
 
 
 /***/ })

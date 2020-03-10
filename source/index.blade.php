@@ -21,7 +21,7 @@
         data-cycle-prev=".slider-prev" data-cycle-next=".slider-next" data-cycle-pager=".slider-pages"
         data-cycle-timeout="4000" data-cycle-speed="1000" data-cycle-fx="fade">
         <div id="slide_1" class="slide cycle-slide-active"
-            style="background-image:url(https://www.milo.cl/wp-content/uploads/2019/05/6.jpg);">
+            style="background-image:url(/assets/images/home/slide1.jpg);">
             <div class="slide-body">
                 <div class="container">
                     <div class="slide-caption">
@@ -35,7 +35,7 @@
             </div>
         </div>
         <div id="slide_2" class="slide cycle-slide-active"
-            style="background-image:url(https://www.milo.cl/wp-content/uploads/2019/05/7.jpg);">
+            style="background-image:url(/assets/images/home/slide2.jpg);">
             <div class="slide-body">
                 <div class="container">
                     <div class="slide-caption">
@@ -48,7 +48,7 @@
             </div>
         </div>
         <div id="slide_3" class="slide cycle-slide-active"
-            style="background-image:url(https://www.milo.cl/wp-content/uploads/2019/05/3.jpg);">
+            style="background-image:url(/assets/images/home/slide3.jpg);">
             <div class="slide-body">
                 <div class="container">
                     <div class="slide-caption">
@@ -61,7 +61,7 @@
             </div>
         </div>
         <div id="slide_4" class="slide cycle-slide-active"
-            style="background-image:url(https://www.milo.cl/wp-content/uploads/2019/05/10.jpg);">
+            style="background-image:url(/assets/images/home/slide4.jpg);">
             <div class="slide-body">
                 <div class="container">
                     <div class="slide-caption">
@@ -74,7 +74,7 @@
             </div>
         </div>
         <div id="slide_5" class="slide cycle-slide-active"
-            style="background-image:url(https://www.milo.cl/wp-content/uploads/2019/05/12.jpg);">
+            style="background-image:url(/assets/images/home/slide5.jpg);">
             <div class="slide-body">
                 <div class="container">
                     <div class="slide-caption">
@@ -87,7 +87,7 @@
             </div>
         </div>
         <div id="slide_6" class="slide cycle-slide-active"
-            style="background-image:url(https://www.milo.cl/wp-content/uploads/2019/05/4.jpg);">
+            style="background-image:url(/assets/images/home/slide6.jpg);">
             <div class="slide-body">
                 <div class="container">
                     <div class="slide-caption">
@@ -100,7 +100,7 @@
             </div>
         </div>
         <div id="slide_7" class="slide cycle-slide-active"
-            style="background-image:url(https://www.milo.cl/wp-content/uploads/2019/02/foto-portada4_MILO.png);">
+            style="background-image:url(/assets/images/home/slide7.png);">
             <div class="slide-body">
                 <div class="container">
                     <div class="slide-caption">
@@ -113,7 +113,7 @@
             </div>
         </div>
         <div id="slide_8" class="slide cycle-slide-active"
-            style="background-image:url(https://www.milo.cl/wp-content/uploads/2019/05/2.jpg);">
+            style="background-image:url(/assets/images/home/slide8.jpg);">
             <div class="slide-body">
                 <div class="container">
                     <div class="slide-caption">
@@ -126,7 +126,7 @@
             </div>
         </div>
         <div id="slide_9" class="slide cycle-slide-active"
-            style="background-image:url(https://www.milo.cl/wp-content/uploads/2019/05/8.jpg);">
+            style="background-image:url(/assets/images/home/slide9.jpg);">
             <div class="slide-body">
                 <div class="container">
                     <div class="slide-caption">
@@ -139,7 +139,7 @@
             </div>
         </div>
         <div id="slide_10" class="slide cycle-slide-active"
-            style="background-image:url(https://www.milo.cl/wp-content/uploads/2019/05/5.jpg);">
+            style="background-image:url(/assets/images/home/slide10.jpg);">
             <div class="slide-body">
                 <div class="container">
                     <div class="slide-caption">
@@ -152,7 +152,7 @@
             </div>
         </div>
         <div id="slide_11" class="slide cycle-slide-active"
-            style="background-image:url(https://www.milo.cl/wp-content/uploads/2019/05/1.jpg);">
+            style="background-image:url(/assets/images/home/slide11.jpg);">
             <div class="slide-body">
                 <div class="container">
                     <div class="slide-caption">
@@ -177,7 +177,7 @@
     <div id="firstLogoHome">
         <table>
             <tr>
-                <td id="tdLogo"><img src="https://www.milo.cl/wp-content/uploads/2020/02/EVENTOS_logo-copa_MILO-2020.png"></td>
+                <td id="tdLogo"><img src="/assets/images/home/EVENTOS_logo-copa_MILO-2020.png"></td>
                 <td>
                     <div id="buttonEventHeader"><a href="https://copamilo.good-factory.com/" target="_blank">VER MÁS</a>
                     </div>
@@ -188,7 +188,7 @@
     <div id="secondLogoHome">
         <table>
             <tr>
-                <td id="tdLogoSecond"><img src="https://www.milo.cl/wp-content/uploads/2020/02/LOGO-CORRIDAS-2020.png"></td>
+                <td id="tdLogoSecond"><img src="/assets/images/home//LOGO-CORRIDAS-2020.png"></td>
                 <td>
                     <div id="buttonEventHeaderTwo"><a href="http://www.prokart.cl/milocorridas/" target="_blank">VER
                             MÁS</a></div>
@@ -202,11 +202,11 @@
         <table>
             <tr>
                 <td>
-                    <img src="https://www.milo.cl/wp-content/uploads/2020/02/EVENTOS_logo-copa_MILO-2020.png">
+                    <img src="/assets/images/home/EVENTOS_logo-copa_MILO-2020.png">
                     <div id="buttonEventHeader"><a href="https://copamilo.good-factory.com/" target="_blank">VER MÁS</a>
                     </div>
                 </td>
-                <td class="secondImage"><img src="https://www.milo.cl/wp-content/uploads/2020/02/LOGO-CORRIDAS-2020.png">
+                <td class="secondImage"><img src="/assets/images/home//LOGO-CORRIDAS-2020.png">
                     <div id="buttonEventHeaderTwo"><a href="http://www.prokart.cl/milocorridas/" target="_blank">VER
                             MÁS</a></div>
                 </td>
@@ -223,17 +223,17 @@
 <div id="principalImgTest">
     <div class="rowMenu">
         <div class="menuItem">
-            <a href="https://www.milo.cl/productos"><img src="https://www.milo.cl/wp-content/uploads/2019/02/INICIO_productos_MILO.png"
+            <a href="https://www.milo.cl/productos"><img src="/assets/images/home//INICIO_productos_MILO.png"
                     class="firstImage"></a><br />
             <a href="https://www.milo.cl/productos">PRODUCTOS</a>
         </div>
         <div class="menuItem">
-            <a href="https://www.milo.cl/nutricion"><img src="https://www.milo.cl/wp-content/uploads/2019/02/INICIO_nutricion_MILO.png"
+            <a href="https://www.milo.cl/nutricion"><img src="/assets/images/home//INICIO_nutricion_MILO.png"
                     class="menuImage"></a><br />
             <a href="https://www.milo.cl/nutricion">NUTRICIÓN</a>
         </div>
         <div class="menuItem">
-            <a href="https://www.milo.cl/comunidad"><img src="https://www.milo.cl/wp-content/uploads/2019/02/INICIO_comunidad_MILO.png"
+            <a href="https://www.milo.cl/comunidad"><img src="/assets/images/home//INICIO_comunidad_MILO.png"
                     class="menuImage"></a><br />
             <a href="https://www.milo.cl/comunidad">COMUNIDAD</a>
         </div>
