@@ -74,7 +74,7 @@
                                     <p>Para comenzar el día a toda energía, dale a tus hijos un <span
                                             class="underlined">desayuno</span> acompañado con un vaso de
                                         MILO.</p>
-                                    <p> <a href="https://milo.cl/MILO-TRADICIONAL.pdf" target="_blank">Descargar
+                                    <p> <a href="/assets/docs/MILO-TRADICIONAL.pdf" target="_blank">Descargar
                                             ficha</a>
                                     </p>
                                 </div>
@@ -116,7 +116,7 @@
                                 <div class="detailText">
                                     <p>Prepara un vaso de MILO Listo en <span class="underlined">tiempo
                                             récord</span>, solo necesitas agua y MILO Listo.</p>
-                                    <p> <a href="https://milo.cl/MILO-LISTO.pdf" target="_blank">Descargar
+                                    <p> <a href="/assets/docs/MILO-LISTO.pdf" target="_blank">Descargar
                                             ficha</a>
                                     </p>
                                 </div>
@@ -158,7 +158,7 @@
                                 <div class="detailText">
                                     <p>Complemento ideal para la <span class="underlined">colación</span> de
                                         tus hijos.</p>
-                                    <p> <a href="https://milo.cl/MILO-EN-CAJITA.pdf" target="_blank">Descargar ficha</a>
+                                    <p> <a href="/assets/docs/MILO-EN-CAJITA.pdf" target="_blank">Descargar ficha</a>
                                     </p>
                                 </div>
                                 <p></p>
@@ -197,7 +197,7 @@
                                     <p>Para comenzar el día a toda energía, dale a tus hijos un <span
                                             class="underlined">desayuno</span> acompañado con un vaso de
                                         MILO.</p>
-                                    <p> <a href="https://milo.cl/MILO-TRADICIONAL.pdf" target="_blank">Descargar
+                                    <p> <a href="/assets/docs/MILO-TRADICIONAL.pdf" target="_blank">Descargar
                                             ficha</a>
                                     </p>
                                 </div>
@@ -236,7 +236,7 @@
                                 <div class="detailText">
                                     <p>Prepara un vaso de MILO Listo en <span class="underlined">tiempo
                                             récord</span>, solo necesitas agua y MILO Listo.</p>
-                                    <p> <a href="https://milo.cl/MILO-LISTO.pdf" target="_blank">Descargar
+                                    <p> <a href="/assets/docs/MILO-LISTO.pdf" target="_blank">Descargar
                                             ficha</a>
                                     </p>
                                 </div>
@@ -275,7 +275,7 @@
                                 <div class="detailText">
                                     <p>Complemento ideal para la <span class="underlined">colación</span> de
                                         tus hijos. </p>
-                                    <p> <a href="https://milo.cl/MILO-EN-CAJITA.pdf" target="_blank">Descargar ficha</a>
+                                    <p> <a href="/assets/docs/MILO-EN-CAJITA.pdf" target="_blank">Descargar ficha</a>
                                     </p>
                                 </div>
                                 <p></p>
