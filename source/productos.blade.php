@@ -48,7 +48,7 @@
         </div>
     </div>
     <div id="divPrincipalMobile" style="display:none;">
-        <img src="https://www.milo.cl/wp-content/uploads/2019/02/mobile-portada-1_productos_MILO.png"><br>
+        <img src="/assets/images/productos/mobile-portada-1_productos_MILO.png"><br>
         <p>ACTIV-GO es un extracto de malta único y una fuente de micronutrientes que juegan un rol en la
             liberación de ENERGÍA, función muscular y el mantenimiento de huesos que son funciones
             esenciales para la actividad física en los niños.</p>
@@ -60,11 +60,11 @@
                     <div id="divProductList">
                         <div class="listProduct">
                             <div class="imageProduct"><img style="padding-top: 10%; width: 80%;"
-                                    src="https://www.milo.cl/wp-content/uploads/2019/02/tradicional_productos_MILO.png">
+                                    src="/assets/images/productos/tradicional_productos_MILO.png">
                             </div>
                             <div class="detailProduct">
                                 <div class="imageDetail"><img
-                                        src="https://www.milo.cl/wp-content/uploads/2019/02/icono-desayuno_productos_MILO.png">
+                                        src="/assets/images/productos/icono-desayuno_productos_MILO.png">
                                 </div>
                                 <div class="detailTitle">
                                     <h2>MILO TRADICIONAL</h2>
@@ -83,19 +83,19 @@
                             <div class="vitamineProduct">
                                 <ul>
                                     <li><img
-                                            src="https://www.milo.cl/wp-content/uploads/2019/02/check_productos_MILO.png">PROTEÍNAS
+                                            src="/assets/images/productos/check_productos_MILO.png">PROTEÍNAS
                                     </li>
                                     <li><img
-                                            src="https://www.milo.cl/wp-content/uploads/2019/02/check_productos_MILO.png">VITAMINAS
+                                            src="/assets/images/productos/check_productos_MILO.png">VITAMINAS
                                     </li>
                                     <li><img
-                                            src="https://www.milo.cl/wp-content/uploads/2019/02/check_productos_MILO.png">CALCIO
+                                            src="/assets/images/productos/check_productos_MILO.png">CALCIO
                                     </li>
                                     <li><img
-                                            src="https://www.milo.cl/wp-content/uploads/2019/02/check_productos_MILO.png">FÓSFORO
+                                            src="/assets/images/productos/check_productos_MILO.png">FÓSFORO
                                     </li>
                                     <li><img
-                                            src="https://www.milo.cl/wp-content/uploads/2019/02/check_productos_MILO.png">HIERRO
+                                            src="/assets/images/productos/check_productos_MILO.png">HIERRO
                                     </li>
                                 </ul>
                             </div>
@@ -103,11 +103,11 @@
                         </div>
                         <div class="listProduct">
                             <div class="imageProduct"><img style="height: inherit; width: unset;"
-                                    src="https://www.milo.cl/wp-content/uploads/2019/02/listo_productos_MILO.png">
+                                    src="/assets/images/productos/listo_productos_MILO.png">
                             </div>
                             <div class="detailProduct">
                                 <div class="imageDetail"><img
-                                        src="https://www.milo.cl/wp-content/uploads/2019/02/icono_velocidad_productos_MILO.png">
+                                        src="/assets/images/productos/icono_velocidad_productos_MILO.png">
                                 </div>
                                 <div class="detailTitle">
                                     <h2>MILO LISTO</h2>
@@ -125,19 +125,19 @@
                             <div class="vitamineProduct">
                                 <ul>
                                     <li><img
-                                            src="https://www.milo.cl/wp-content/uploads/2019/02/check_productos_MILO.png">PROTEÍNAS
+                                            src="/assets/images/productos/check_productos_MILO.png">PROTEÍNAS
                                     </li>
                                     <li><img
-                                            src="https://www.milo.cl/wp-content/uploads/2019/02/check_productos_MILO.png">VITAMINAS
+                                            src="/assets/images/productos/check_productos_MILO.png">VITAMINAS
                                     </li>
                                     <li><img
-                                            src="https://www.milo.cl/wp-content/uploads/2019/02/check_productos_MILO.png">CALCIO
+                                            src="/assets/images/productos/check_productos_MILO.png">CALCIO
                                     </li>
                                     <li><img
-                                            src="https://www.milo.cl/wp-content/uploads/2019/02/check_productos_MILO.png">FÓSFORO
+                                            src="/assets/images/productos/check_productos_MILO.png">FÓSFORO
                                     </li>
                                     <li><img
-                                            src="https://www.milo.cl/wp-content/uploads/2019/02/check_productos_MILO.png">HIERRO
+                                            src="/assets/images/productos/check_productos_MILO.png">HIERRO
                                     </li>
                                 </ul>
                             </div>
@@ -145,11 +145,11 @@
                         </div>
                         <div class="listProduct">
                             <div class="imageProduct"><img
-                                    src="https://www.milo.cl/wp-content/uploads/2019/02/bombillin_productos_MILO.png">
+                                    src="/assets/images/productos/bombillin_productos_MILO.png">
                             </div>
                             <div class="detailProduct">
                                 <div class="imageDetail"><img
-                                        src="https://www.milo.cl/wp-content/uploads/2019/02/icono-colacion_productos_MILO.png">
+                                        src="/assets/images/productos/icono-colacion_productos_MILO.png">
                                 </div>
                                 <div class="detailTitle">
                                     <h2>MILO EN CAJITA</h2>
@@ -166,7 +166,7 @@
                             <div class="vitamineProduct">
                                 <ul>
                                     <li><img
-                                            src="https://www.milo.cl/wp-content/uploads/2019/02/check_productos_MILO.png">PROTEÍNAS
+                                            src="/assets/images/productos/check_productos_MILO.png">PROTEÍNAS
                                     </li>
                                 </ul>
                             </div>
@@ -175,7 +175,7 @@
                         <div class="finalProduct" style="padding-bottom: 30px;">
                             <div class="divReturn">
                                 <a href="https://www.milo.cl"><img
-                                        src="https://www.milo.cl/wp-content/uploads/2019/02/volver_productos_MILO.png"></a>
+                                        src="/assets/images/volver_productos_MILO.png"></a>
                             </div>
                             <p></p>
                         </div>
@@ -187,7 +187,7 @@
                         <div class="listProduct mobile">
                             <div class="detailProduct mobile">
                                 <img class="listFirst"
-                                    src="https://www.milo.cl/wp-content/uploads/2019/02/tradicional_productos_MILO.png">
+                                    src="/assets/images/productos/tradicional_productos_MILO.png">
                                 <p></p>
                                 <div class="detailTitle">
                                     <h2>MILO TRADICIONAL</h2>
@@ -206,19 +206,19 @@
                             <div class="vitamineProduct mobile">
                                 <ul>
                                     <li><img
-                                            src="https://www.milo.cl/wp-content/uploads/2019/02/check_productos_MILO.png">PROTEÍNAS
+                                            src="/assets/images/productos/check_productos_MILO.png">PROTEÍNAS
                                     </li>
                                     <li><img
-                                            src="https://www.milo.cl/wp-content/uploads/2019/02/check_productos_MILO.png">VITAMINAS
+                                            src="/assets/images/productos/check_productos_MILO.png">VITAMINAS
                                     </li>
                                     <li><img
-                                            src="https://www.milo.cl/wp-content/uploads/2019/02/check_productos_MILO.png">CALCIO
+                                            src="/assets/images/productos/check_productos_MILO.png">CALCIO
                                     </li>
                                     <li><img
-                                            src="https://www.milo.cl/wp-content/uploads/2019/02/check_productos_MILO.png">FÓSFORO
+                                            src="/assets/images/productos/check_productos_MILO.png">FÓSFORO
                                     </li>
                                     <li><img
-                                            src="https://www.milo.cl/wp-content/uploads/2019/02/check_productos_MILO.png">HIERRO
+                                            src="/assets/images/productos/check_productos_MILO.png">HIERRO
                                     </li>
                                 </ul>
                             </div>
@@ -227,7 +227,7 @@
                         <div class="listProduct mobile" style="padding-bottom: 30px;">
                             <div class="detailProduct mobile">
                                 <img style="height: 50% !important;width: unset;"
-                                    src="https://www.milo.cl/wp-content/uploads/2019/02/listo_productos_MILO.png">
+                                    src="/assets/images/productos/listo_productos_MILO.png">
                                 <p></p>
                                 <div class="detailTitle">
                                     <h2>MILO LISTO</h2>
@@ -245,19 +245,19 @@
                             <div class="vitamineProduct mobile">
                                 <ul>
                                     <li><img
-                                            src="https://www.milo.cl/wp-content/uploads/2019/02/check_productos_MILO.png">PROTEÍNAS
+                                            src="/assets/images/productos/check_productos_MILO.png">PROTEÍNAS
                                     </li>
                                     <li><img
-                                            src="https://www.milo.cl/wp-content/uploads/2019/02/check_productos_MILO.png">VITAMINAS
+                                            src="/assets/images/productos/check_productos_MILO.png">VITAMINAS
                                     </li>
                                     <li><img
-                                            src="https://www.milo.cl/wp-content/uploads/2019/02/check_productos_MILO.png">CALCIO
+                                            src="/assets/images/productos/check_productos_MILO.png">CALCIO
                                     </li>
                                     <li><img
-                                            src="https://www.milo.cl/wp-content/uploads/2019/02/check_productos_MILO.png">FÓSFORO
+                                            src="/assets/images/productos/check_productos_MILO.png">FÓSFORO
                                     </li>
                                     <li><img
-                                            src="https://www.milo.cl/wp-content/uploads/2019/02/check_productos_MILO.png">HIERRO
+                                            src="/assets/images/productos/check_productos_MILO.png">HIERRO
                                     </li>
                                 </ul>
                             </div>
@@ -266,7 +266,7 @@
                         <div class="listProduct mobile" style="margin-bottom: 40px;">
                             <div class="detailProduct mobile" style="height: 350px;">
                                 <img class="listImage"
-                                    src="https://www.milo.cl/wp-content/uploads/2019/02/bombillin_productos_MILO.png">
+                                    src="/assets/images/productos/bombillin_productos_MILO.png">
                                 <p></p>
                                 <div class="detailTitle">
                                     <h2>MILO EN CAJITA</h2>
@@ -283,7 +283,7 @@
                             <div class="vitamineProduct mobile">
                                 <ul>
                                     <li><img
-                                            src="https://www.milo.cl/wp-content/uploads/2019/02/check_productos_MILO.png">PROTEÍNAS
+                                            src="/assets/images/productos/check_productos_MILO.png">PROTEÍNAS
                                     </li>
                                 </ul>
                             </div>
@@ -292,7 +292,7 @@
                         <div class="finalProduct" style="padding-bottom: 30px;">
                             <div class="divReturn">
                                 <a href="https://www.milo.cl"><img
-                                        src="https://www.milo.cl/wp-content/uploads/2019/02/volver_productos_MILO.png"></a>
+                                        src="/assets/images/volver_productos_MILO.png"></a>
                             </div>
                             <p></p>
                         </div>

@@ -188,7 +188,7 @@
     <div id="secondLogoHome">
         <table>
             <tr>
-                <td id="tdLogoSecond"><img src="/assets/images/home//LOGO-CORRIDAS-2020.png"></td>
+                <td id="tdLogoSecond"><img src="/assets/images/home/LOGO-CORRIDAS-2020.png"></td>
                 <td>
                     <div id="buttonEventHeaderTwo"><a href="http://www.prokart.cl/milocorridas/" target="_blank">VER
                             MÁS</a></div>
