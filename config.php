@@ -114,10 +114,36 @@ return [
                     'imagen_cuadrada' => '/assets/images/comunidad/talca.jpg' 
                 ],
                 [
+                    'filename' => 'En Antofagasta, no sólo hallamos técnica, sino que valores', 
+                    'titulo' => 'En Antofagasta, no sólo hallamos técnica, sino que valores',
+                    'imagen_cuadrada' => '/assets/images/comunidad/antofagasta-slide2.jpg' 
+                ],
+                [
+                    'filename' => 'Gracias Iquique por enseñarnos de garra', 
+                    'titulo' => 'Gracias Iquique por enseñarnos de garra',
+                    'imagen_cuadrada' => '/assets/images/comunidad/iquique.jpg' 
+                ],
+                [
+                    'filename' => 'Revive el momento en que nuestro equipo visitó el Camp Nou y alentó al FC Barcelona ', 
+                    'titulo' => 'Revive el momento en que nuestro equipo visitó el Camp Nou y alentó al FC Barcelona ',
+                    'imagen_cuadrada' => '/assets/images/comunidad/fc-barcelona.jpg' 
+                ],
+                [
+                    'filename' => 'Revive la duodécima y última fecha de la Copa MILO Chile', 
+                    'titulo' => 'Revive la duodécima y última fecha de la Copa MILO Chile',
+                    'imagen_cuadrada' => '/assets/images/comunidad/santiago.jpg' 
+                ], 
+                [
+                    'filename' => 'En Osorno no existieron rivales, sólo compañeros', 
+                    'titulo' => 'En Osorno no existieron rivales, sólo compañeros',
+                    'imagen_cuadrada' => '/assets/images/comunidad/osorno-rivales.jpg' 
+                ], 
+                [
                     'filename' => 'Rancagua demostró que el apoyo es el verdadero protagonista de la Copa MILO', 
                     'titulo' => 'Rancagua demostró que el apoyo es el verdadero protagonista de la Copa MILO',
-                    'imagen_cuadrada' => '/assets/images/comunidad/rancagua.jpg' 
-                ],
+                    'imagen_cuadrada' => '/assets/images/comunidad/rancagua-protagonista.jpg' 
+                ], 
+
             ],
         ],
         'slider3' => [
@@ -146,7 +172,7 @@ return [
                 [
                     'url' => 'https://facebook.com/melapuedo/posts/10156938608635590', 
                     'titulo' => 'Nuestros atletas en Concepción, no descansaron hasta llegar a la meta',
-                    'imagen_cuadrada' => '/assets/images/comunidad/final_santiago.jpg' 
+                    'imagen_cuadrada' => '/assets/images/comunidad/concepcion-meta.jpg' 
                 ],
                 [
                     'url' => 'https://www.facebook.com/117245220589/posts/10157177681415590', 
@@ -262,11 +288,11 @@ return [
                     'url' => 'https://www.facebook.com/watch/?v=1342199929248996', 
                     'titulo' => 'Juan Manuel y su hijo Martín ¡ganaron una camiseta del FCB firmada por sus jugadores!',
                     'imagen_cuadrada' => '/assets/images/comunidad/juan-camiseta-barcelona.png' 
-                ],
+                ], 
                 [
                     'url' => 'https://www.facebook.com/melapuedo/photos/a.202998755589/10156607318185590', 
-                    'titulo' => 'María Hernández, Elizabeth Oyarzo y Jimena Jiménez ganaron poleras MILO®',
-                    'imagen_cuadrada' => '/assets/images/comunidad/puzzle.png' 
+                    'titulo' => 'María Hernández, Elizabeth Oyarzo y Jimena Jiménez ganaron poleras MILO®',
+                    'imagen_cuadrada' => '/assets/images/comunidad/NOTICIAS_foto-C3_MILO-1.png' 
                 ] 
             ],
         ]

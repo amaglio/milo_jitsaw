@@ -60,7 +60,7 @@
         }
     </style>
 
-    <link rel='stylesheet' id='fullcalendar-css' href='http://allfont.es/allfont.css?fonts=roboto-black&#038;ver=5.0.4' type='text/css' media='all' />
+    <link rel='stylesheet' id='fullcalendar-css' href='https://allfont.es/allfont.css?fonts=roboto-black&#038;ver=5.0.4' type='text/css' media='all' />
     <link rel='stylesheet' id='dashicons-css' href='/assets/css/dashicons.min.css' type='text/css' media='all' />
     <link rel='stylesheet' id='admin-bar-css' href='/assets/css/admin-bar.min.css' type='text/css' media='all' />
     <link rel='stylesheet' id='fontawesome-css' href='/assets/css/fontawesome.css' type='text/css'   media='all' />

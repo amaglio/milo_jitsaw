@@ -89,13 +89,13 @@
 /* WHITE COLOR SCHEME */
 .white .sa_owl_theme .owl-nav .owl-prev {
 	/* background:rgba(0,0,0,0.3) url('../../../uploads/2019/02/NOTICIAS_flecha-fotos_MILO.png') no-repeat center center !important; */
-	background-image: url(../../../uploads/2019/02/NOTICIAS_flecha-fotos_MILO.png);
+	background-image: url(../../images/NOTICIAS_flecha-fotos_MILO.png);
     background-size: cover;
     background-repeat: no-repeat;
 }
 .white .sa_owl_theme .owl-nav .owl-next {
 	/* background:rgba(0,0,0,0.3) url('../images/icon_next.png') no-repeat center center !important; */
-	background-image: url(../../../uploads/2019/02/NOTICIAS_flecha-fotos_MILO.png);
+	background-image: url(../../images/NOTICIAS_flecha-fotos_MILO.png); 
     background-size: cover;
     background-repeat: no-repeat;
     -webkit-transform: rotate(-180deg);

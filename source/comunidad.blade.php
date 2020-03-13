@@ -41,7 +41,7 @@
 
                                             @foreach($slider1 as $newsItem)
                                             <div class="owl-item" style="width: 320px;">
-                                                <div id="slider_3878_slide04" class="sa_hover_container"
+                                                <div id="slider_3878" class="sa_hover_container"
                                                     style="padding: 5%; margin: 0px 0%; background-image: url(&quot;&quot;); background-position: left top; background-size: contain; background-repeat: no-repeat; background-color: rgba(0, 0, 0, 0); min-height: 160px;">
                                                     <div class="card"
                                                         onclick="location.href = '/{{$newsItem->filename}}/'">
@@ -53,18 +53,10 @@
                                                     </div>
 
                                                 </div>
-                                            </div>
+                                            </div>  
                                             @endforeach
 
-                                        </div>
-                                        <div class="owl-nav"><button type="button" role="presentation"
-                                                class="owl-prev"></button><button type="button" role="presentation"
-                                                class="owl-next"></button>
-                                        </div>
-                                        <div class="owl-dots"><button role="button"
-                                                class="owl-dot"><span></span></button><button role="button"
-                                                class="owl-dot active"><span></span></button>
-                                        </div>
+                                        </div> 
                                     </div>
                                 </div>
                             </div>
